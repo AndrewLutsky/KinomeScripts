@@ -1,18 +1,30 @@
 #!/bin/bash
 
-
-
-
-
 # Read in program name,file name, column pdb id's are in, and output name as arguments.
 progname=$0
 file=$1
 col=$2
 
+### HELP ###
+
+display_help() {
+	echo "This simply fetches pdb ids using a column in a .csv file"
+	echo "Usage: [$progname] [file_name] [column]"
+	echo "where file_name is the .csv file you want to read in from and column is the column that contains the pdb ids"
+}
+
+### --- ###
+
+
+# Checks to see if first argument is -h
+if [ "$1" == "-h" ] ; then
+	display_help
+	exit 0
+fi
+
 
 # Hard code rcsb url.
 url="https://files.rcsb.org/download"
-
 
 
 # Read in csv pdb's. Pdb id must be second argument.
@@ -39,7 +51,7 @@ do
 	echo $url/$id
 
 	# Use curl
-	curl -f "$url/$id.pdb" -o $pdb_out || echo "Failed to download $url/$id.pdb"
+	curl -h -f "$url/$id.pdb" -o $pdb_out || echo "Failed to download $url/$id.pdb"
 done
 
 
