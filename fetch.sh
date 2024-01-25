@@ -28,8 +28,7 @@ url="https://files.rcsb.org/download"
 
 
 # Read in csv pdb's. Pdb id must be second argument.
-ids=`cat $1 | tail -n +2 | grep -v "NA" | cut -d "," -f $2`
-
+ids=`cat $1 | tail -n +2 | cut -d "," -f $2 | grep -vw "NA"`
 # Create empty directory.
 mkdir pdb_structs
 cd pdb_structs
