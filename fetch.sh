@@ -44,14 +44,11 @@ do
 	# Echo the id.
 	echo $id
 
-	
+	# Find new output name.	
 	pdb_out="$out/$id.pdb"
 
-	# Echo the url
-	echo $url/$id
-
-	# Use curl
-	curl -h -f "$url/$id.pdb" -o $pdb_out || echo "Failed to download $url/$id.pdb"
+	# Use curl to download.
+	curl -s -f "$url/$id.pdb" -o $pdb_out || echo "Failed to download $url/$id.pdb"
 done
 
 
