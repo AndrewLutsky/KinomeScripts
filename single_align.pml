@@ -7,14 +7,14 @@ cd ./pdb_chains
 
 
 # First argument variable
-set arg = sys.argv[1]
+arg = sys.argv[1]
 # Open the first argument
-load str(arg) + ".pdb"
+cmd.load(str(arg) + ".pdb")
 
 
 # Align mobile to target
 
-select Mobile, arg
+cmd.select("Mobile", arg)
 
 select Target, 3E5A
 
@@ -27,5 +27,7 @@ align Mobile, Target
 cd ../pdb_aligned/
 
 # Write out Mobile to new folder
-save str(arg) + "_aligned.pdb", Mobile
+cmd.save(str(arg) + "_aligned.pdb", "Mobile")
 
+# Return to parent directory.
+cd ..
