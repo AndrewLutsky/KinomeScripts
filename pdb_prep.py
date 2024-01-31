@@ -94,6 +94,30 @@ def run_tm_align(pdb_file1, pdb_file2, output_file):
     else:
         print("TM-align ran successfully. Output saved to:", output_file)
 
+
+"This calls single_align.pml to align two proteins and save it in a new folder"
+def align(pdb_file1, pdb_file2, output_folder):
+    # Create the output folder if it doesn't exist
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    # For each pdb name align to 3E5A 
+    
+    #Construct the command
+    cmd = ['/bin/zsh','-i','-c', f"pymol -c single_align.pml -- {pdb_file1}"]
+    #print(cmd)
+    result = subprocess.run(cmd, text = True, capture_output=True, executable='/bin/zsh')
+
+    #Check return code
+    
+    if result.returncode != 0:
+        print(result.stderr)
+        #raise RuntimeError("single_align.pml failed to run")
+        # If RMSD exceeds some threshold -> we manually examine
+        # Write to folder
+    
+
+    return
 # Example usage
 #run_tm_align('protein1.pdb', 'protein2.pdb', 'tm_align_output.txt')
 
@@ -101,11 +125,13 @@ def run_tm_align(pdb_file1, pdb_file2, output_file):
 pdbs, pdb_sidechain = read_pdbs_from_file("paper_data.txt")
 pdb_ids = list(pdb_sidechain.keys())
 
-pdb_folder = "pdb_structs"
-output_folder = "pdb_chains"
+#pdb_folder = "pdb_structs"
+#output_folder = "pdb_chains"
 
-get_all_chains(pdb_folder, pdb_sidechain, output_folder)
+#get_all_chains(pdb_folder, pdb_sidechain, output_folder)
 
+for pdb in pdbs:
+    align(pdb[0:4] + "_" + pdb[4:5], "0000", "pdb_aligned")
 
 # Initialize PDB parser and PDB list
 #parser = PDBParser()
