@@ -99,7 +99,7 @@ cif_path = 'components.cif'
 pdb_files_dir = 'pdb_aligned'  # Directory containing PDB files
 output_pdb_path = 'hetatms_with_p.pdb'  # Path for the output PDB file
 
-# Generate the dictionary mapping residue names to SMILES strings
+# Generate the dictionary mapping residue names to chemical formulas 
 resname_to_formula_dict = create_resname_to_formula_dict(cif_path)
 #print(resname_to_formula_dict["PTR"])
 
