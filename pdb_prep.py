@@ -6,6 +6,7 @@ from Bio.PDB import PDBParser, Superimposer, PDBList, PDBIO, Select
 def read_pdbs_from_file(file_path):
     pdbs = []
     pdb_sidechain = {}
+    pdb_conforms = {}
     with open(file_path, 'r') as file:
         for line in file:
             parts = line.strip().split()
@@ -14,7 +15,9 @@ def read_pdbs_from_file(file_path):
             pdb = parts[9]
             pdbs.append(pdb)
             pdb_sidechain[pdb[0:4]] = pdb[4]
-    return pdbs, pdb_sidechain
+            pdb_id = pdb[0:4] + "_" + pdb[4]
+            pdb_conforms[pdb_id] = parts[10]
+    return pdbs, pdb_sidechain, pdb_conforms
 
 def download_pdb_files(pdb_ids, output_folder='pdb_files'):
     """
@@ -122,16 +125,22 @@ def align(pdb_file1, pdb_file2, output_folder):
 #run_tm_align('protein1.pdb', 'protein2.pdb', 'tm_align_output.txt')
 
 
-pdbs, pdb_sidechain = read_pdbs_from_file("paper_data.txt")
+pdbs, pdb_sidechain, pdb_conforms = read_pdbs_from_file("paper_data.txt")
 pdb_ids = list(pdb_sidechain.keys())
+
+print(pdb_conforms)
 
 #pdb_folder = "pdb_structs"
 #output_folder = "pdb_chains"
 
 #get_all_chains(pdb_folder, pdb_sidechain, output_folder)
 
+
+'''
 for pdb in pdbs:
     align(pdb[0:4] + "_" + pdb[4:5], "0000", "pdb_aligned")
+'''
+
 
 # Initialize PDB parser and PDB list
 #parser = PDBParser()
