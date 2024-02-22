@@ -1,6 +1,6 @@
 
 # Change directories
-cd ./prody_pockets_5A/
+cd ../pockets/pockets_2_5A_mol2/
 
 
 # First argument variable
@@ -8,8 +8,7 @@ arg = sys.argv[1]
 # Open the first argument
 cmd.load(str(arg) + ".pdb")
 
-cd ../pocketsMol2/
-cmd.save(str(arg)[7:] + ".mol2")
+cmd.save(str(arg) + ".mol2")
 cd ..
 cmd.quit()
 

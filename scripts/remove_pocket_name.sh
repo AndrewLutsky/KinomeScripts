@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd pocketsMol2
+cd $1
 
 files=`ls -A1`
 for file in $files

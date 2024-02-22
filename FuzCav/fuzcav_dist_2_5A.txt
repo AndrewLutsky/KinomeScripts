@@ -1,0 +1,309 @@
+1CM8_tagged.mol2 and 1K2P_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2823 bits on in 6C9J_A_aligned
+0.271828875
+1CM8	1K2P	0
+1CM8_tagged.mol2 and 1PKG_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2822 bits on in 6CD6_A_aligned
+0.290681042
+1CM8	1PKG	0
+1CM8_tagged.mol2 and 1S9I_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2758 bits on in 6CMJ_B_aligned
+0.279376958
+1CM8	1S9I	0
+1CM8_tagged.mol2 and 1U59_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 3272 bits on in 6CNX_A_aligned
+0.2726965
+1CM8	1U59	0
+1CM8_tagged.mol2 and 1VZO_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2477 bits on in 6CQD_B_aligned
+0.24509325
+1CM8	1VZO	0
+1CM8_tagged.mol2 and 1WAK_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2676 bits on in 6CZ4_A_aligned
+0.27854325
+1CM8	1WAK	0
+1CM8_tagged.mol2 and 1WBW_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2756 bits on in 6F7B_A_aligned
+0.320316042
+1CM8	1WBW	0
+1CM8_tagged.mol2 and 1XO2_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 3231 bits on in 6FCK_A_aligned
+0.297696541
+1CM8	1XO2	0
+1CM8_tagged.mol2 and 1YI6_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2963 bits on in 6FD3_A_aligned
+0.3169865
+1CM8	1YI6	0
+1CM8_tagged.mol2 and 2A1A_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2791 bits on in 6FDY_U_aligned
+0.274951666
+1YI6	6FDY	0.149051
+1CM8_tagged.mol2 and 2AC3_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2354 bits on in 2AC3_A_aligned
+0.233667083
+1YI6	6FEK	0
+1CM8_tagged.mol2 and 2ACX_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2012 bits on in 2ACX_A_aligned
+0.238517541
+1YI6	6FER	0
+1CM8_tagged.mol2 and 2BIY_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2834 bits on in 2BIY_A_aligned
+there is 2836 bits on in 1YI6_B_aligned
+there is 2870 bits on in 6FHB_A_aligned
+0.3360675
+1YI6	6FHB	0.177362
+1CM8_tagged.mol2 and 2BUJ_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2669 bits on in 2BUJ_A_aligned
+0.254077792
+1CM8	2BUJ	0.143717
+1CM8_tagged.mol2 and 2C47_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3176 bits on in 2C47_D_aligned
+0.268454834
+1CM8	2C47	0.135064
+1CM8_tagged.mol2 and 2CKE_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2612 bits on in 2CKE_D_aligned
+0.237144417
+1YI6	6FYV	0
+1CM8_tagged.mol2 and 2CMW_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3114 bits on in 2CMW_A_aligned
+0.246726917
+1YI6	6G3A	0
+1CM8_tagged.mol2 and 2DQ7_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2615 bits on in 2DQ7_X_aligned
+0.233911625
+1YI6	6G78	0
+1CM8_tagged.mol2 and 2ETM_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2501 bits on in 2ETM_A_aligned
+0.23254025
+1YI6	6GES	0
+1CM8_tagged.mol2 and 2F57_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2671 bits on in 2F57_B_aligned
+0.237740709
+1CM8	2F57	0.130926
+1CM8_tagged.mol2 and 2HAK_tagged.mol2 processing
+there is 2836 bits on in 1YI6_B_aligned
+there is 2920 bits on in 6GL9_B_aligned
+0.304827208
+1CM8	2HAK	0
+1CM8_tagged.mol2 and 2HK5_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2367 bits on in 2HK5_A_aligned
+0.219603125
+1CM8	2HK5	0.162231
+1CM8_tagged.mol2 and 2HW6_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3025 bits on in 2HW6_A_aligned
+0.227890209
+1CM8	2HW6	0.12453
+1CM8_tagged.mol2 and 2I0E_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2933 bits on in 2I0E_B_aligned
+0.21811825
+1CM8	2I0E	0.185478
+1CM8_tagged.mol2 and 2I6L_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2604 bits on in 2I6L_A_aligned
+0.20621925
+1CM8	2I6L	0.175883
+1CM8_tagged.mol2 and 2IWI_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2426 bits on in 2IWI_A_aligned
+0.207514917
+1CM8	2IWI	0.162819
+1CM8_tagged.mol2 and 2JAM_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2956 bits on in 2JAM_B_aligned
+0.217573
+1CM8	2JAM	0.129797
+1CM8_tagged.mol2 and 2JC6_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 1709 bits on in 2JC6_C_aligned
+0.191730667
+1CM8	2JC6	0.152136
+1CM8_tagged.mol2 and 2JFM_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 1626 bits on in 2JFM_A_aligned
+0.193541375
+1CM8	2JFM	0.142066
+1CM8_tagged.mol2 and 2JII_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3293 bits on in 2JII_B_aligned
+0.261750125
+1CM8	2JII	0.1076
+1CM8_tagged.mol2 and 2NRU_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2830 bits on in 2NRU_D_aligned
+0.232260042
+1CM8	2NRU	0.141836
+1CM8_tagged.mol2 and 2OSC_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 1420 bits on in 2OSC_A_aligned
+0.186393834
+1CM8	2OSC	0.133803
+1CM8_tagged.mol2 and 2QLU_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3184 bits on in 2QLU_A_aligned
+0.249157791
+1CM8	2QLU	0.129044
+1CM8_tagged.mol2 and 2R2P_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2598 bits on in 2R2P_A_aligned
+0.211307125
+1CM8	2R2P	0.142802
+1CM8_tagged.mol2 and 2REI_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2195 bits on in 2REI_A_aligned
+0.201272125
+1CM8	2REI	0.136219
+1CM8_tagged.mol2 and 2V7O_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2402 bits on in 2V7O_A_aligned
+0.213604166
+1CM8	2V7O	0.174022
+1CM8_tagged.mol2 and 2VD5_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3010 bits on in 2VD5_A_aligned
+0.222935125
+1CM8	2VD5	0.15237
+1CM8_tagged.mol2 and 2VZ6_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2646 bits on in 2VZ6_B_aligned
+0.234035125
+1CM8	2VZ6	0.156841
+1CM8_tagged.mol2 and 2W4O_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 1934 bits on in 2W4O_A_aligned
+0.201087792
+1CM8	2W4O	0.154085
+1CM8_tagged.mol2 and 2WTK_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2873 bits on in 2WTK_B_aligned
+0.277331959
+1CM8	2WTK	0.124906
+1CM8_tagged.mol2 and 2X4F_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2559 bits on in 2X4F_B_aligned
+0.213355167
+1CM8	2X4F	0.163736
+1CM8_tagged.mol2 and 2XIK_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2709 bits on in 2XIK_A_aligned
+0.220000417
+1CM8	2XIK	0.156132
+1CM8_tagged.mol2 and 2XYN_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2684 bits on in 2XYN_C_aligned
+0.20956925
+1CM8	2XYN	0.146351
+1CM8_tagged.mol2 and 2Y7J_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2917 bits on in 2Y7J_C_aligned
+0.227512875
+1CM8	2Y7J	0.162528
+1CM8_tagged.mol2 and 2Z7R_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2365 bits on in 2Z7R_A_aligned
+0.20751625
+1CM8	2Z7R	0.153488
+1CM8_tagged.mol2 and 3A4O_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3011 bits on in 3A4O_X_aligned
+0.228536958
+1CM8	3A4O	0.179082
+1CM8_tagged.mol2 and 3A8X_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3333 bits on in 3A8X_A_aligned
+0.271795541
+1CM8	3A8X	0.103461
+1CM8_tagged.mol2 and 3ALO_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2502 bits on in 3ALO_A_aligned
+0.21954825
+1CM8	3ALO	0.172262
+1CM8_tagged.mol2 and 3BCE_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 1987 bits on in 3BCE_C_aligned
+0.207778833
+1CM8	3BCE	0.142426
+1CM8_tagged.mol2 and 3BHH_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2415 bits on in 3BHH_B_aligned
+0.216924125
+1CM8	3BHH	0.16853
+1CM8_tagged.mol2 and 3BRB_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 1841 bits on in 3BRB_A_aligned
+0.201126166
+1CM8	3BRB	0.138512
+1CM8_tagged.mol2 and 3CBL_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2986 bits on in 3CBL_A_aligned
+0.225441
+1CM8	3CBL	0.146351
+1CM8_tagged.mol2 and 3CJG_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 1941 bits on in 3CJG_A_aligned
+0.197128542
+1CM8	3CJG	0.152499
+1CM8_tagged.mol2 and 3COK_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2191 bits on in 3COK_B_aligned
+0.210629292
+1CM8	3COK	0.154724
+1CM8_tagged.mol2 and 3COM_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 1751 bits on in 3COM_B_aligned
+0.192832042
+1CM8	3COM	0.146202
+1CM8_tagged.mol2 and 3D7U_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3015 bits on in 3D7U_C_aligned
+0.232569167
+1CM8	3D7U	0.13845
+1CM8_tagged.mol2 and 3DAK_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2571 bits on in 3DAK_D_aligned
+0.2337195
+1CM8	3DAK	0.145469
+1CM8_tagged.mol2 and 3DLS_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 2372 bits on in 3DLS_A_aligned
+0.211825167
+1CM8	3DLS	0.14882
+1CM8_tagged.mol2 and 3E7O_tagged.mol2 processing
+1CM8	3E7O	0
+1CM8_tagged.mol2 and 3E8D_tagged.mol2 processing
+1CM8	3E8D	0
+1CM8_tagged.mol2 and 3EQP_tagged.mol2 processing
+1CM8	3EQP	0
+1CM8_tagged.mol2 and 3FE3_tagged.mol2 processing
+1CM8	3FE3	0
+1CM8_tagged.mol2 and 3FXX_tagged.mol2 processing
+1CM8	3FXX	0
+1CM8_tagged.mol2 and 3G2F_tagged.mol2 processing
+there is 2658 bits on in 1CM8_B_aligned
+there is 3276 bits on in 3G2F_A_aligned
+0.247564166
+1CM8	3G2F	0.113619
+1CM8_tagged.mol2 and 3G33_tagged.mol2 processing
+1CM8_tagged.mol2 and 3GC8_tagged.mol2 processing
