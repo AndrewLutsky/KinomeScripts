@@ -1,6 +1,15 @@
-import subprocess
+import pymolPy3
 import os
-for file in os.listdir("../pockets/pockets_2_5A_mol2/"):
-    fname = file[0:-4]
-    cmd = ['/bin/zsh', '-i', '-c', f"pymol -c convMol2.pml -- {fname}"]
-    result = subprocess.run(cmd, text = True, capture_output = True)
+import sys
+
+
+pm = pymolPy3.pymolPy3(0)
+
+for file in os.listdir(sys.argv[1]):
+    if file.endswith(".pdb"):
+        pm("cd " + sys.argv[1])
+        pm("load " + file)
+        pm("save " + file.split(".")[0] + ".mol2")
+        pm("delete all")
+    else:
+        continue
