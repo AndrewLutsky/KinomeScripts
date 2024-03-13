@@ -7,7 +7,6 @@
 cd $1
 pockets1=`ls -A1`
 pockets2=`ls -A1`
-cd ..
 
 for i in $pockets1
 do
@@ -16,13 +15,16 @@ do
 		if [ $i != $j ] 
 		then
 			echo $i $j
-			cp $1/$i ~/Downloads/FuzCav/pipeline
-			cp $1/$j ~/Downloads/FuzCav/pipeline
+			echo "Printing working directory"
+			pwd
+			cp $i ~/Downloads/FuzCav/pipeline
+			cp $j ~/Downloads/FuzCav/pipeline
 			cd ~/Downloads/FuzCav/pipeline
+			echo "Running shell script"
 			./fuzcav.sh $i $j >> ~/Desktop/School/CMU/Research/Kinome/FuzCav/$2
 			rm ~/Downloads/FuzCav/pipeline/$i
 			rm ~/Downloads/FuzCav/pipeline/$j
-			cd ~/Desktop/School/CMU/Research/Kinome/FuzCav
+			cd $1
 		fi
 	done
 done
