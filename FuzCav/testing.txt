@@ -1,0 +1,3312 @@
+1CM8_tagged.mol2 and 1K2P_tagged.mol2 processing
+1CM8 1K2P
+there is 3650 bits on in 1CM8_B_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.549980917
+1CM8	1K2P	0.113973
+1CM8_tagged.mol2 and 1PKG_tagged.mol2 processing
+1CM8 1PKG
+there is 3650 bits on in 1CM8_B_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.595143209
+1CM8	1PKG	0.0932856
+1CM8_tagged.mol2 and 1S9I_tagged.mol2 processing
+1CM8 1S9I
+there is 3650 bits on in 1CM8_B_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.497365625
+1CM8	1S9I	0.108682
+1CM8_tagged.mol2 and 1U59_tagged.mol2 processing
+1CM8 1U59
+there is 3650 bits on in 1CM8_B_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.462516416
+1CM8	1U59	0.114112
+1CM8_tagged.mol2 and 1VZO_tagged.mol2 processing
+1CM8 1VZO
+there is 3650 bits on in 1CM8_B_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.6573535
+1CM8	1VZO	0.110685
+1CM8_tagged.mol2 and 1WAK_tagged.mol2 processing
+1CM8 1WAK
+there is 3650 bits on in 1CM8_B_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.628593333
+1CM8	1WAK	0.103696
+1CM8_tagged.mol2 and 1WBW_tagged.mol2 processing
+1CM8 1WBW
+there is 3650 bits on in 1CM8_B_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.565183667
+1CM8	1WBW	0.14546
+1CM8_tagged.mol2 and 1XO2_tagged.mol2 processing
+1CM8 1XO2
+there is 3650 bits on in 1CM8_B_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.49937725
+1CM8	1XO2	0.130411
+1CM8_tagged.mol2 and 1YI6_tagged.mol2 processing
+1CM8 1YI6
+there is 3650 bits on in 1CM8_B_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.527365625
+1CM8	1YI6	0.118104
+1CM8_tagged.mol2 and 1a52_tagged.mol2 processing
+1CM8 1a52
+there is 3650 bits on in 1CM8_B_aligned
+there is 278 bits on in 1a52
+0.373569459
+1CM8	1a52	0.0107914
+1CM8_tagged.mol2 and 1err_tagged.mol2 processing
+1CM8 1err
+there is 3650 bits on in 1CM8_B_aligned
+there is 530 bits on in 1err
+0.36869625
+1CM8	1err	0.0169811
+1CM8_tagged.mol2 and 1g50_tagged.mol2 processing
+1CM8 1g50
+there is 3650 bits on in 1CM8_B_aligned
+there is 305 bits on in 1g50
+0.376665
+1CM8	1g50	0.00327869
+1CM8_tagged.mol2 and 1nde_tagged.mol2 processing
+1CM8 1nde
+there is 3650 bits on in 1CM8_B_aligned
+there is 578 bits on in 1nde
+0.378164875
+1CM8	1nde	0.0155709
+1CM8_tagged.mol2 and 1qkn_tagged.mol2 processing
+1CM8 1qkn
+there is 3650 bits on in 1CM8_B_aligned
+there is 594 bits on in 1qkn
+0.378079708
+1CM8	1qkn	0.0151515
+1CM8_tagged.mol2 and 1sj0_tagged.mol2 processing
+1CM8 1sj0
+there is 3650 bits on in 1CM8_B_aligned
+there is 530 bits on in 1sj0
+0.382619375
+1CM8	1sj0	0.0169811
+1CM8_tagged.mol2 and 1uom_tagged.mol2 processing
+1CM8 1uom
+there is 3650 bits on in 1CM8_B_aligned
+there is 492 bits on in 1uom
+0.371784042
+1CM8	1uom	0.0182927
+1CM8_tagged.mol2 and 1x7r_tagged.mol2 processing
+1CM8 1x7r
+there is 3650 bits on in 1CM8_B_aligned
+there is 331 bits on in 1x7r
+0.372773334
+1CM8	1x7r	0.0060423
+1CM8_tagged.mol2 and 1xp1_tagged.mol2 processing
+1CM8 1xp1
+there is 3650 bits on in 1CM8_B_aligned
+there is 663 bits on in 1xp1
+0.372345958
+1CM8	1xp1	0.015083
+1CM8_tagged.mol2 and 1xp6_tagged.mol2 processing
+1CM8 1xp6
+there is 3650 bits on in 1CM8_B_aligned
+there is 740 bits on in 1xp6
+0.379624083
+1CM8	1xp6	0.0175676
+1CM8_tagged.mol2 and 1xp9_tagged.mol2 processing
+1CM8 1xp9
+there is 3650 bits on in 1CM8_B_aligned
+there is 657 bits on in 1xp9
+0.371614916
+1CM8	1xp9	0.0136986
+1CM8_tagged.mol2 and 1xpc_tagged.mol2 processing
+1CM8 1xpc
+there is 3650 bits on in 1CM8_B_aligned
+there is 679 bits on in 1xpc
+0.380049625
+1CM8	1xpc	0.017673
+1CM8_tagged.mol2 and 1xqc_tagged.mol2 processing
+1CM8 1xqc
+there is 3650 bits on in 1CM8_B_aligned
+there is 557 bits on in 1xqc
+0.374976708
+1CM8	1xqc	0.016158
+1CM8_tagged.mol2 and 1yy4_tagged.mol2 processing
+1CM8 1yy4
+there is 3650 bits on in 1CM8_B_aligned
+there is 312 bits on in 1yy4
+0.376399417
+1CM8	1yy4	0.00961538
+1K2P_tagged.mol2 and 1CM8_tagged.mol2 processing
+1K2P 1CM8
+there is 3725 bits on in 1K2P_A_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.5372195
+1K2P	1CM8	0.113973
+1K2P_tagged.mol2 and 1PKG_tagged.mol2 processing
+1K2P 1PKG
+there is 3725 bits on in 1K2P_A_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.542060375
+1K2P	1PKG	0.109521
+1K2P_tagged.mol2 and 1S9I_tagged.mol2 processing
+1K2P 1S9I
+there is 3725 bits on in 1K2P_A_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.466410541
+1K2P	1S9I	0.10929
+1K2P_tagged.mol2 and 1U59_tagged.mol2 processing
+1K2P 1U59
+there is 3725 bits on in 1K2P_A_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.500607792
+1K2P	1U59	0.125689
+1K2P_tagged.mol2 and 1VZO_tagged.mol2 processing
+1K2P 1VZO
+there is 3725 bits on in 1K2P_A_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.551485959
+1K2P	1VZO	0.113914
+1K2P_tagged.mol2 and 1WAK_tagged.mol2 processing
+1K2P 1WAK
+there is 3725 bits on in 1K2P_A_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.566150708
+1K2P	1WAK	0.11583
+1K2P_tagged.mol2 and 1WBW_tagged.mol2 processing
+1K2P 1WBW
+there is 3725 bits on in 1K2P_A_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.519467708
+1K2P	1WBW	0.119114
+1K2P_tagged.mol2 and 1XO2_tagged.mol2 processing
+1K2P 1XO2
+there is 3725 bits on in 1K2P_A_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.5267005
+1K2P	1XO2	0.112344
+1K2P_tagged.mol2 and 1YI6_tagged.mol2 processing
+1K2P 1YI6
+there is 3725 bits on in 1K2P_A_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.493968
+1K2P	1YI6	0.133352
+1K2P_tagged.mol2 and 1a52_tagged.mol2 processing
+1K2P 1a52
+there is 3725 bits on in 1K2P_A_aligned
+there is 278 bits on in 1a52
+0.339316
+1K2P	1a52	0.00719424
+1K2P_tagged.mol2 and 1err_tagged.mol2 processing
+1K2P 1err
+there is 3725 bits on in 1K2P_A_aligned
+there is 530 bits on in 1err
+0.337480708
+1K2P	1err	0.0113208
+1K2P_tagged.mol2 and 1g50_tagged.mol2 processing
+1K2P 1g50
+there is 3725 bits on in 1K2P_A_aligned
+there is 305 bits on in 1g50
+0.342959709
+1K2P	1g50	0.00655738
+1K2P_tagged.mol2 and 1nde_tagged.mol2 processing
+1K2P 1nde
+there is 3725 bits on in 1K2P_A_aligned
+there is 578 bits on in 1nde
+0.340459833
+1K2P	1nde	0.0138408
+1K2P_tagged.mol2 and 1qkn_tagged.mol2 processing
+1K2P 1qkn
+there is 3725 bits on in 1K2P_A_aligned
+there is 594 bits on in 1qkn
+0.332598417
+1K2P	1qkn	0.0117845
+1K2P_tagged.mol2 and 1sj0_tagged.mol2 processing
+1K2P 1sj0
+there is 3725 bits on in 1K2P_A_aligned
+there is 530 bits on in 1sj0
+0.333214792
+1K2P	1sj0	0.0113208
+1K2P_tagged.mol2 and 1uom_tagged.mol2 processing
+1K2P 1uom
+there is 3725 bits on in 1K2P_A_aligned
+there is 492 bits on in 1uom
+0.335072292
+1K2P	1uom	0.0121951
+1K2P_tagged.mol2 and 1x7r_tagged.mol2 processing
+1K2P 1x7r
+there is 3725 bits on in 1K2P_A_aligned
+there is 331 bits on in 1x7r
+0.335162333
+1K2P	1x7r	0.00906344
+1K2P_tagged.mol2 and 1xp1_tagged.mol2 processing
+1K2P 1xp1
+there is 3725 bits on in 1K2P_A_aligned
+there is 663 bits on in 1xp1
+0.336137417
+1K2P	1xp1	0.0120664
+1K2P_tagged.mol2 and 1xp6_tagged.mol2 processing
+1K2P 1xp6
+there is 3725 bits on in 1K2P_A_aligned
+there is 740 bits on in 1xp6
+0.334049584
+1K2P	1xp6	0.0189189
+1K2P_tagged.mol2 and 1xp9_tagged.mol2 processing
+1K2P 1xp9
+there is 3725 bits on in 1K2P_A_aligned
+there is 657 bits on in 1xp9
+0.332570834
+1K2P	1xp9	0.0121766
+1K2P_tagged.mol2 and 1xpc_tagged.mol2 processing
+1K2P 1xpc
+there is 3725 bits on in 1K2P_A_aligned
+there is 679 bits on in 1xpc
+0.334814375
+1K2P	1xpc	0.0147275
+1K2P_tagged.mol2 and 1xqc_tagged.mol2 processing
+1K2P 1xqc
+there is 3725 bits on in 1K2P_A_aligned
+there is 557 bits on in 1xqc
+0.32985275
+1K2P	1xqc	0.0125673
+1K2P_tagged.mol2 and 1yy4_tagged.mol2 processing
+1K2P 1yy4
+there is 3725 bits on in 1K2P_A_aligned
+there is 312 bits on in 1yy4
+0.330884917
+1K2P	1yy4	0.00641026
+1PKG_tagged.mol2 and 1CM8_tagged.mol2 processing
+1PKG 1CM8
+there is 3634 bits on in 1PKG_A_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.546958625
+1PKG	1CM8	0.0932856
+1PKG_tagged.mol2 and 1K2P_tagged.mol2 processing
+1PKG 1K2P
+there is 3634 bits on in 1PKG_A_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.601785958
+1PKG	1K2P	0.109521
+1PKG_tagged.mol2 and 1S9I_tagged.mol2 processing
+1PKG 1S9I
+there is 3634 bits on in 1PKG_A_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.512104334
+1PKG	1S9I	0.0983607
+1PKG_tagged.mol2 and 1U59_tagged.mol2 processing
+1PKG 1U59
+there is 3634 bits on in 1PKG_A_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.551974375
+1PKG	1U59	0.11742
+1PKG_tagged.mol2 and 1VZO_tagged.mol2 processing
+1PKG 1VZO
+there is 3634 bits on in 1PKG_A_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.594853166
+1PKG	1VZO	0.120804
+1PKG_tagged.mol2 and 1WAK_tagged.mol2 processing
+1PKG 1WAK
+there is 3634 bits on in 1PKG_A_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.612324291
+1PKG	1WAK	0.0948704
+1PKG_tagged.mol2 and 1WBW_tagged.mol2 processing
+1PKG 1WBW
+there is 3634 bits on in 1PKG_A_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.572099292
+1PKG	1WBW	0.100056
+1PKG_tagged.mol2 and 1XO2_tagged.mol2 processing
+1PKG 1XO2
+there is 3634 bits on in 1PKG_A_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.537591041
+1PKG	1XO2	0.109246
+1PKG_tagged.mol2 and 1YI6_tagged.mol2 processing
+1PKG 1YI6
+there is 3634 bits on in 1PKG_A_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.574889208
+1PKG	1YI6	0.1084
+1PKG_tagged.mol2 and 1a52_tagged.mol2 processing
+1PKG 1a52
+there is 3634 bits on in 1PKG_A_aligned
+there is 278 bits on in 1a52
+0.383886875
+1PKG	1a52	0.00359712
+1PKG_tagged.mol2 and 1err_tagged.mol2 processing
+1PKG 1err
+there is 3634 bits on in 1PKG_A_aligned
+there is 530 bits on in 1err
+0.390760542
+1PKG	1err	0.00943396
+1PKG_tagged.mol2 and 1g50_tagged.mol2 processing
+1PKG 1g50
+there is 3634 bits on in 1PKG_A_aligned
+there is 305 bits on in 1g50
+0.398340875
+1PKG	1g50	0
+1PKG_tagged.mol2 and 1nde_tagged.mol2 processing
+1PKG 1nde
+there is 3634 bits on in 1PKG_A_aligned
+there is 578 bits on in 1nde
+0.396796166
+1PKG	1nde	0.00692042
+1PKG_tagged.mol2 and 1qkn_tagged.mol2 processing
+1PKG 1qkn
+there is 3634 bits on in 1PKG_A_aligned
+there is 594 bits on in 1qkn
+0.384872333
+1PKG	1qkn	0.0117845
+1PKG_tagged.mol2 and 1sj0_tagged.mol2 processing
+1PKG 1sj0
+there is 3634 bits on in 1PKG_A_aligned
+there is 530 bits on in 1sj0
+0.387601916
+1PKG	1sj0	0.00943396
+1PKG_tagged.mol2 and 1uom_tagged.mol2 processing
+1PKG 1uom
+there is 3634 bits on in 1PKG_A_aligned
+there is 492 bits on in 1uom
+0.388359625
+1PKG	1uom	0.00813008
+1PKG_tagged.mol2 and 1x7r_tagged.mol2 processing
+1PKG 1x7r
+there is 3634 bits on in 1PKG_A_aligned
+there is 331 bits on in 1x7r
+0.386343
+1PKG	1x7r	0.0060423
+1PKG_tagged.mol2 and 1xp1_tagged.mol2 processing
+1PKG 1xp1
+there is 3634 bits on in 1PKG_A_aligned
+there is 663 bits on in 1xp1
+0.3922635
+1PKG	1xp1	0.00754148
+1PKG_tagged.mol2 and 1xp6_tagged.mol2 processing
+1PKG 1xp6
+there is 3634 bits on in 1PKG_A_aligned
+there is 740 bits on in 1xp6
+0.378389542
+1PKG	1xp6	0.0135135
+1PKG_tagged.mol2 and 1xp9_tagged.mol2 processing
+1PKG 1xp9
+there is 3634 bits on in 1PKG_A_aligned
+there is 657 bits on in 1xp9
+0.401310708
+1PKG	1xp9	0.00608828
+1PKG_tagged.mol2 and 1xpc_tagged.mol2 processing
+1PKG 1xpc
+there is 3634 bits on in 1PKG_A_aligned
+there is 679 bits on in 1xpc
+0.400602666
+1PKG	1xpc	0.0103093
+1PKG_tagged.mol2 and 1xqc_tagged.mol2 processing
+1PKG 1xqc
+there is 3634 bits on in 1PKG_A_aligned
+there is 557 bits on in 1xqc
+0.390379834
+1PKG	1xqc	0.00718133
+1PKG_tagged.mol2 and 1yy4_tagged.mol2 processing
+1PKG 1yy4
+there is 3634 bits on in 1PKG_A_aligned
+there is 312 bits on in 1yy4
+0.392811584
+1PKG	1yy4	0.00320513
+1S9I_tagged.mol2 and 1CM8_tagged.mol2 processing
+1S9I 1CM8
+there is 3294 bits on in 1S9I_A_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.496962917
+1S9I	1CM8	0.108682
+1S9I_tagged.mol2 and 1K2P_tagged.mol2 processing
+1S9I 1K2P
+there is 3294 bits on in 1S9I_A_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.450520084
+1S9I	1K2P	0.10929
+1S9I_tagged.mol2 and 1PKG_tagged.mol2 processing
+1S9I 1PKG
+there is 3294 bits on in 1S9I_A_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.503730792
+1S9I	1PKG	0.0983607
+1S9I_tagged.mol2 and 1U59_tagged.mol2 processing
+1S9I 1U59
+there is 3294 bits on in 1S9I_A_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.42957275
+1S9I	1U59	0.125683
+1S9I_tagged.mol2 and 1VZO_tagged.mol2 processing
+1S9I 1VZO
+there is 3294 bits on in 1S9I_A_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.503064458
+1S9I	1VZO	0.108986
+1S9I_tagged.mol2 and 1WAK_tagged.mol2 processing
+1S9I 1WAK
+there is 3294 bits on in 1S9I_A_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.563218541
+1S9I	1WAK	0.10929
+1S9I_tagged.mol2 and 1WBW_tagged.mol2 processing
+1S9I 1WBW
+there is 3294 bits on in 1S9I_A_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.500954834
+1S9I	1WBW	0.113236
+1S9I_tagged.mol2 and 1XO2_tagged.mol2 processing
+1S9I 1XO2
+there is 3294 bits on in 1S9I_A_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.482357041
+1S9I	1XO2	0.123862
+1S9I_tagged.mol2 and 1YI6_tagged.mol2 processing
+1S9I 1YI6
+there is 3294 bits on in 1S9I_A_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.44204925
+1S9I	1YI6	0.124165
+1S9I_tagged.mol2 and 1a52_tagged.mol2 processing
+1S9I 1a52
+there is 3294 bits on in 1S9I_A_aligned
+there is 278 bits on in 1a52
+0.290595292
+1S9I	1a52	0.0179856
+1S9I_tagged.mol2 and 1err_tagged.mol2 processing
+1S9I 1err
+there is 3294 bits on in 1S9I_A_aligned
+there is 530 bits on in 1err
+0.311282042
+1S9I	1err	0.0358491
+1S9I_tagged.mol2 and 1g50_tagged.mol2 processing
+1S9I 1g50
+there is 3294 bits on in 1S9I_A_aligned
+there is 305 bits on in 1g50
+0.297961208
+1S9I	1g50	0.0295082
+1S9I_tagged.mol2 and 1nde_tagged.mol2 processing
+1S9I 1nde
+there is 3294 bits on in 1S9I_A_aligned
+there is 578 bits on in 1nde
+0.287943916
+1S9I	1nde	0.0415225
+1S9I_tagged.mol2 and 1qkn_tagged.mol2 processing
+1S9I 1qkn
+there is 3294 bits on in 1S9I_A_aligned
+there is 594 bits on in 1qkn
+0.296363417
+1S9I	1qkn	0.03367
+1S9I_tagged.mol2 and 1sj0_tagged.mol2 processing
+1S9I 1sj0
+there is 3294 bits on in 1S9I_A_aligned
+there is 530 bits on in 1sj0
+0.313797458
+1S9I	1sj0	0.0320755
+1S9I_tagged.mol2 and 1uom_tagged.mol2 processing
+1S9I 1uom
+there is 3294 bits on in 1S9I_A_aligned
+there is 492 bits on in 1uom
+0.293523625
+1S9I	1uom	0.0325203
+1S9I_tagged.mol2 and 1x7r_tagged.mol2 processing
+1S9I 1x7r
+there is 3294 bits on in 1S9I_A_aligned
+there is 331 bits on in 1x7r
+0.34269975
+1S9I	1x7r	0.0332326
+1S9I_tagged.mol2 and 1xp1_tagged.mol2 processing
+1S9I 1xp1
+there is 3294 bits on in 1S9I_A_aligned
+there is 663 bits on in 1xp1
+0.299672709
+1S9I	1xp1	0.0346908
+1S9I_tagged.mol2 and 1xp6_tagged.mol2 processing
+1S9I 1xp6
+there is 3294 bits on in 1S9I_A_aligned
+there is 740 bits on in 1xp6
+0.296021584
+1S9I	1xp6	0.0418919
+1S9I_tagged.mol2 and 1xp9_tagged.mol2 processing
+1S9I 1xp9
+there is 3294 bits on in 1S9I_A_aligned
+there is 657 bits on in 1xp9
+0.293114209
+1S9I	1xp9	0.0334855
+1S9I_tagged.mol2 and 1xpc_tagged.mol2 processing
+1S9I 1xpc
+there is 3294 bits on in 1S9I_A_aligned
+there is 679 bits on in 1xpc
+0.295685708
+1S9I	1xpc	0.0382916
+1S9I_tagged.mol2 and 1xqc_tagged.mol2 processing
+1S9I 1xqc
+there is 3294 bits on in 1S9I_A_aligned
+there is 557 bits on in 1xqc
+0.291113792
+1S9I	1xqc	0.037702
+1S9I_tagged.mol2 and 1yy4_tagged.mol2 processing
+1S9I 1yy4
+there is 3294 bits on in 1S9I_A_aligned
+there is 312 bits on in 1yy4
+0.293370334
+1S9I	1yy4	0.0224359
+1U59_tagged.mol2 and 1CM8_tagged.mol2 processing
+1U59 1CM8
+there is 3628 bits on in 1U59_A_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.454506167
+1U59	1CM8	0.114112
+1U59_tagged.mol2 and 1K2P_tagged.mol2 processing
+1U59 1K2P
+there is 3628 bits on in 1U59_A_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.454749834
+1U59	1K2P	0.125689
+1U59_tagged.mol2 and 1PKG_tagged.mol2 processing
+1U59 1PKG
+there is 3628 bits on in 1U59_A_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.505260125
+1U59	1PKG	0.11742
+1U59_tagged.mol2 and 1S9I_tagged.mol2 processing
+1U59 1S9I
+there is 3628 bits on in 1U59_A_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.423061958
+1U59	1S9I	0.125683
+1U59_tagged.mol2 and 1VZO_tagged.mol2 processing
+1U59 1VZO
+there is 3628 bits on in 1U59_A_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.500452917
+1U59	1VZO	0.116593
+1U59_tagged.mol2 and 1WAK_tagged.mol2 processing
+1U59 1WAK
+there is 3628 bits on in 1U59_A_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.561312625
+1U59	1WAK	0.115003
+1U59_tagged.mol2 and 1WBW_tagged.mol2 processing
+1U59 1WBW
+there is 3628 bits on in 1U59_A_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.471375417
+1U59	1WBW	0.123599
+1U59_tagged.mol2 and 1XO2_tagged.mol2 processing
+1U59 1XO2
+there is 3628 bits on in 1U59_A_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.431858541
+1U59	1XO2	0.116042
+1U59_tagged.mol2 and 1YI6_tagged.mol2 processing
+1U59 1YI6
+there is 3628 bits on in 1U59_A_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.507158584
+1U59	1YI6	0.133352
+1U59_tagged.mol2 and 1a52_tagged.mol2 processing
+1U59 1a52
+there is 3628 bits on in 1U59_A_aligned
+there is 278 bits on in 1a52
+0.294839042
+1U59	1a52	0.00719424
+1U59_tagged.mol2 and 1err_tagged.mol2 processing
+1U59 1err
+there is 3628 bits on in 1U59_A_aligned
+there is 530 bits on in 1err
+0.309348209
+1U59	1err	0.0169811
+1U59_tagged.mol2 and 1g50_tagged.mol2 processing
+1U59 1g50
+there is 3628 bits on in 1U59_A_aligned
+there is 305 bits on in 1g50
+0.304947625
+1U59	1g50	0.00983607
+1U59_tagged.mol2 and 1nde_tagged.mol2 processing
+1U59 1nde
+there is 3628 bits on in 1U59_A_aligned
+there is 578 bits on in 1nde
+0.302934792
+1U59	1nde	0.0121107
+1U59_tagged.mol2 and 1qkn_tagged.mol2 processing
+1U59 1qkn
+there is 3628 bits on in 1U59_A_aligned
+there is 594 bits on in 1qkn
+0.296419959
+1U59	1qkn	0.0218855
+1U59_tagged.mol2 and 1sj0_tagged.mol2 processing
+1U59 1sj0
+there is 3628 bits on in 1U59_A_aligned
+there is 530 bits on in 1sj0
+0.29458525
+1U59	1sj0	0.0132075
+1U59_tagged.mol2 and 1uom_tagged.mol2 processing
+1U59 1uom
+there is 3628 bits on in 1U59_A_aligned
+there is 492 bits on in 1uom
+0.294011667
+1U59	1uom	0.0101626
+1U59_tagged.mol2 and 1x7r_tagged.mol2 processing
+1U59 1x7r
+there is 3628 bits on in 1U59_A_aligned
+there is 331 bits on in 1x7r
+0.292941291
+1U59	1x7r	0.0181269
+1U59_tagged.mol2 and 1xp1_tagged.mol2 processing
+1U59 1xp1
+there is 3628 bits on in 1U59_A_aligned
+there is 663 bits on in 1xp1
+0.296283375
+1U59	1xp1	0.0105581
+1U59_tagged.mol2 and 1xp6_tagged.mol2 processing
+1U59 1xp6
+there is 3628 bits on in 1U59_A_aligned
+there is 740 bits on in 1xp6
+0.295978584
+1U59	1xp6	0.0243243
+1U59_tagged.mol2 and 1xp9_tagged.mol2 processing
+1U59 1xp9
+there is 3628 bits on in 1U59_A_aligned
+there is 657 bits on in 1xp9
+0.294747916
+1U59	1xp9	0.0106545
+1U59_tagged.mol2 and 1xpc_tagged.mol2 processing
+1U59 1xpc
+there is 3628 bits on in 1U59_A_aligned
+there is 679 bits on in 1xpc
+0.2971635
+1U59	1xpc	0.017673
+1U59_tagged.mol2 and 1xqc_tagged.mol2 processing
+1U59 1xqc
+there is 3628 bits on in 1U59_A_aligned
+there is 557 bits on in 1xqc
+0.297667541
+1U59	1xqc	0.0143627
+1U59_tagged.mol2 and 1yy4_tagged.mol2 processing
+1U59 1yy4
+there is 3628 bits on in 1U59_A_aligned
+there is 312 bits on in 1yy4
+0.294000333
+1U59	1yy4	0.00641026
+1VZO_tagged.mol2 and 1CM8_tagged.mol2 processing
+1VZO 1CM8
+there is 3687 bits on in 1VZO_A_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.559122291
+1VZO	1CM8	0.110685
+1VZO_tagged.mol2 and 1K2P_tagged.mol2 processing
+1VZO 1K2P
+there is 3687 bits on in 1VZO_A_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.570967625
+1VZO	1K2P	0.113914
+1VZO_tagged.mol2 and 1PKG_tagged.mol2 processing
+1VZO 1PKG
+there is 3687 bits on in 1VZO_A_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.607962666
+1VZO	1PKG	0.120804
+1VZO_tagged.mol2 and 1S9I_tagged.mol2 processing
+1VZO 1S9I
+there is 3687 bits on in 1VZO_A_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.536097708
+1VZO	1S9I	0.108986
+1VZO_tagged.mol2 and 1U59_tagged.mol2 processing
+1VZO 1U59
+there is 3687 bits on in 1VZO_A_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.535304583
+1VZO	1U59	0.116593
+1VZO_tagged.mol2 and 1WAK_tagged.mol2 processing
+1VZO 1WAK
+there is 3687 bits on in 1VZO_A_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.634661541
+1VZO	1WAK	0.112521
+1VZO_tagged.mol2 and 1WBW_tagged.mol2 processing
+1VZO 1WBW
+there is 3687 bits on in 1VZO_A_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.585546417
+1VZO	1WBW	0.107063
+1VZO_tagged.mol2 and 1XO2_tagged.mol2 processing
+1VZO 1XO2
+there is 3687 bits on in 1VZO_A_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.559538708
+1VZO	1XO2	0.11093
+1VZO_tagged.mol2 and 1YI6_tagged.mol2 processing
+1VZO 1YI6
+there is 3687 bits on in 1VZO_A_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.592541125
+1VZO	1YI6	0.115886
+1VZO_tagged.mol2 and 1a52_tagged.mol2 processing
+1VZO 1a52
+there is 3687 bits on in 1VZO_A_aligned
+there is 278 bits on in 1a52
+0.390464709
+1VZO	1a52	0.00359712
+1VZO_tagged.mol2 and 1err_tagged.mol2 processing
+1VZO 1err
+there is 3687 bits on in 1VZO_A_aligned
+there is 530 bits on in 1err
+0.394157125
+1VZO	1err	0.00943396
+1VZO_tagged.mol2 and 1g50_tagged.mol2 processing
+1VZO 1g50
+there is 3687 bits on in 1VZO_A_aligned
+there is 305 bits on in 1g50
+0.395291375
+1VZO	1g50	0.00327869
+1VZO_tagged.mol2 and 1nde_tagged.mol2 processing
+1VZO 1nde
+there is 3687 bits on in 1VZO_A_aligned
+there is 578 bits on in 1nde
+0.3911095
+1VZO	1nde	0.00692042
+1VZO_tagged.mol2 and 1qkn_tagged.mol2 processing
+1VZO 1qkn
+there is 3687 bits on in 1VZO_A_aligned
+there is 594 bits on in 1qkn
+0.406046958
+1VZO	1qkn	0.010101
+1VZO_tagged.mol2 and 1sj0_tagged.mol2 processing
+1VZO 1sj0
+there is 3687 bits on in 1VZO_A_aligned
+there is 530 bits on in 1sj0
+0.388054084
+1VZO	1sj0	0.00754717
+1VZO_tagged.mol2 and 1uom_tagged.mol2 processing
+1VZO 1uom
+there is 3687 bits on in 1VZO_A_aligned
+there is 492 bits on in 1uom
+0.387137416
+1VZO	1uom	0.00813008
+1VZO_tagged.mol2 and 1x7r_tagged.mol2 processing
+1VZO 1x7r
+there is 3687 bits on in 1VZO_A_aligned
+there is 331 bits on in 1x7r
+0.384815917
+1VZO	1x7r	0.00302115
+1VZO_tagged.mol2 and 1xp1_tagged.mol2 processing
+1VZO 1xp1
+there is 3687 bits on in 1VZO_A_aligned
+there is 663 bits on in 1xp1
+0.391488
+1VZO	1xp1	0.0120664
+1VZO_tagged.mol2 and 1xp6_tagged.mol2 processing
+1VZO 1xp6
+there is 3687 bits on in 1VZO_A_aligned
+there is 740 bits on in 1xp6
+0.393170417
+1VZO	1xp6	0.0162162
+1VZO_tagged.mol2 and 1xp9_tagged.mol2 processing
+1VZO 1xp9
+there is 3687 bits on in 1VZO_A_aligned
+there is 657 bits on in 1xp9
+0.395703875
+1VZO	1xp9	0.0152207
+1VZO_tagged.mol2 and 1xpc_tagged.mol2 processing
+1VZO 1xpc
+there is 3687 bits on in 1VZO_A_aligned
+there is 679 bits on in 1xpc
+0.3982585
+1VZO	1xpc	0.0162003
+1VZO_tagged.mol2 and 1xqc_tagged.mol2 processing
+1VZO 1xqc
+there is 3687 bits on in 1VZO_A_aligned
+there is 557 bits on in 1xqc
+0.428447625
+1VZO	1xqc	0.00897666
+1VZO_tagged.mol2 and 1yy4_tagged.mol2 processing
+1VZO 1yy4
+there is 3687 bits on in 1VZO_A_aligned
+there is 312 bits on in 1yy4
+0.397613917
+1VZO	1yy4	0.00320513
+1WAK_tagged.mol2 and 1CM8_tagged.mol2 processing
+1WAK 1CM8
+there is 3626 bits on in 1WAK_A_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.583686417
+1WAK	1CM8	0.103696
+1WAK_tagged.mol2 and 1K2P_tagged.mol2 processing
+1WAK 1K2P
+there is 3626 bits on in 1WAK_A_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.553364667
+1WAK	1K2P	0.11583
+1WAK_tagged.mol2 and 1PKG_tagged.mol2 processing
+1WAK 1PKG
+there is 3626 bits on in 1WAK_A_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.618606583
+1WAK	1PKG	0.0948704
+1WAK_tagged.mol2 and 1S9I_tagged.mol2 processing
+1WAK 1S9I
+there is 3626 bits on in 1WAK_A_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.525386917
+1WAK	1S9I	0.10929
+1WAK_tagged.mol2 and 1U59_tagged.mol2 processing
+1WAK 1U59
+there is 3626 bits on in 1WAK_A_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.543982541
+1WAK	1U59	0.115003
+1WAK_tagged.mol2 and 1VZO_tagged.mol2 processing
+1WAK 1VZO
+there is 3626 bits on in 1WAK_A_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.646177792
+1WAK	1VZO	0.112521
+1WAK_tagged.mol2 and 1WBW_tagged.mol2 processing
+1WAK 1WBW
+there is 3626 bits on in 1WAK_A_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.58006625
+1WAK	1WBW	0.10426
+1WAK_tagged.mol2 and 1XO2_tagged.mol2 processing
+1WAK 1XO2
+there is 3626 bits on in 1WAK_A_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.555925
+1WAK	1XO2	0.107005
+1WAK_tagged.mol2 and 1YI6_tagged.mol2 processing
+1WAK 1YI6
+there is 3626 bits on in 1WAK_A_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.548062625
+1WAK	1YI6	0.106182
+1WAK_tagged.mol2 and 1a52_tagged.mol2 processing
+1WAK 1a52
+there is 3626 bits on in 1WAK_A_aligned
+there is 278 bits on in 1a52
+0.403104291
+1WAK	1a52	0.00719424
+1WAK_tagged.mol2 and 1err_tagged.mol2 processing
+1WAK 1err
+there is 3626 bits on in 1WAK_A_aligned
+there is 530 bits on in 1err
+0.410561209
+1WAK	1err	0.0132075
+1WAK_tagged.mol2 and 1g50_tagged.mol2 processing
+1WAK 1g50
+there is 3626 bits on in 1WAK_A_aligned
+there is 305 bits on in 1g50
+0.403361125
+1WAK	1g50	0.00655738
+1WAK_tagged.mol2 and 1nde_tagged.mol2 processing
+1WAK 1nde
+there is 3626 bits on in 1WAK_A_aligned
+there is 578 bits on in 1nde
+0.408737084
+1WAK	1nde	0.0155709
+1WAK_tagged.mol2 and 1qkn_tagged.mol2 processing
+1WAK 1qkn
+there is 3626 bits on in 1WAK_A_aligned
+there is 594 bits on in 1qkn
+0.398034792
+1WAK	1qkn	0.0151515
+1WAK_tagged.mol2 and 1sj0_tagged.mol2 processing
+1WAK 1sj0
+there is 3626 bits on in 1WAK_A_aligned
+there is 530 bits on in 1sj0
+0.403549375
+1WAK	1sj0	0.0150943
+1WAK_tagged.mol2 and 1uom_tagged.mol2 processing
+1WAK 1uom
+there is 3626 bits on in 1WAK_A_aligned
+there is 492 bits on in 1uom
+0.39678425
+1WAK	1uom	0.0142276
+1WAK_tagged.mol2 and 1x7r_tagged.mol2 processing
+1WAK 1x7r
+there is 3626 bits on in 1WAK_A_aligned
+there is 331 bits on in 1x7r
+0.404067625
+1WAK	1x7r	0.0060423
+1WAK_tagged.mol2 and 1xp1_tagged.mol2 processing
+1WAK 1xp1
+there is 3626 bits on in 1WAK_A_aligned
+there is 663 bits on in 1xp1
+0.413328625
+1WAK	1xp1	0.0180995
+1WAK_tagged.mol2 and 1xp6_tagged.mol2 processing
+1WAK 1xp6
+there is 3626 bits on in 1WAK_A_aligned
+there is 740 bits on in 1xp6
+0.405638083
+1WAK	1xp6	0.0216216
+1WAK_tagged.mol2 and 1xp9_tagged.mol2 processing
+1WAK 1xp9
+there is 3626 bits on in 1WAK_A_aligned
+there is 657 bits on in 1xp9
+0.394845292
+1WAK	1xp9	0.0182648
+1WAK_tagged.mol2 and 1xpc_tagged.mol2 processing
+1WAK 1xpc
+there is 3626 bits on in 1WAK_A_aligned
+there is 679 bits on in 1xpc
+0.399555292
+1WAK	1xpc	0.0191458
+1WAK_tagged.mol2 and 1xqc_tagged.mol2 processing
+1WAK 1xqc
+there is 3626 bits on in 1WAK_A_aligned
+there is 557 bits on in 1xqc
+0.404828625
+1WAK	1xqc	0.0179533
+1WAK_tagged.mol2 and 1yy4_tagged.mol2 processing
+1WAK 1yy4
+there is 3626 bits on in 1WAK_A_aligned
+there is 312 bits on in 1yy4
+0.407141791
+1WAK	1yy4	0.0128205
+1WBW_tagged.mol2 and 1CM8_tagged.mol2 processing
+1WBW 1CM8
+there is 3568 bits on in 1WBW_A_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.549617916
+1WBW	1CM8	0.14546
+1WBW_tagged.mol2 and 1K2P_tagged.mol2 processing
+1WBW 1K2P
+there is 3568 bits on in 1WBW_A_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.526447084
+1WBW	1K2P	0.119114
+1WBW_tagged.mol2 and 1PKG_tagged.mol2 processing
+1WBW 1PKG
+there is 3568 bits on in 1WBW_A_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.568277708
+1WBW	1PKG	0.100056
+1WBW_tagged.mol2 and 1S9I_tagged.mol2 processing
+1WBW 1S9I
+there is 3568 bits on in 1WBW_A_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.485885541
+1WBW	1S9I	0.113236
+1WBW_tagged.mol2 and 1U59_tagged.mol2 processing
+1WBW 1U59
+there is 3568 bits on in 1WBW_A_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.499536166
+1WBW	1U59	0.123599
+1WBW_tagged.mol2 and 1VZO_tagged.mol2 processing
+1WBW 1VZO
+there is 3568 bits on in 1WBW_A_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.571632125
+1WBW	1VZO	0.107063
+1WBW_tagged.mol2 and 1WAK_tagged.mol2 processing
+1WBW 1WAK
+there is 3568 bits on in 1WBW_A_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.640318166
+1WBW	1WAK	0.10426
+1WBW_tagged.mol2 and 1XO2_tagged.mol2 processing
+1WBW 1XO2
+there is 3568 bits on in 1WBW_A_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.553232208
+1WBW	1XO2	0.126121
+1WBW_tagged.mol2 and 1YI6_tagged.mol2 processing
+1WBW 1YI6
+there is 3568 bits on in 1WBW_A_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.52470475
+1WBW	1YI6	0.118554
+1WBW_tagged.mol2 and 1a52_tagged.mol2 processing
+1WBW 1a52
+there is 3568 bits on in 1WBW_A_aligned
+there is 278 bits on in 1a52
+0.367491541
+1WBW	1a52	0.0179856
+1WBW_tagged.mol2 and 1err_tagged.mol2 processing
+1WBW 1err
+there is 3568 bits on in 1WBW_A_aligned
+there is 530 bits on in 1err
+0.356997
+1WBW	1err	0.0207547
+1WBW_tagged.mol2 and 1g50_tagged.mol2 processing
+1WBW 1g50
+there is 3568 bits on in 1WBW_A_aligned
+there is 305 bits on in 1g50
+0.354488083
+1WBW	1g50	0.0163934
+1WBW_tagged.mol2 and 1nde_tagged.mol2 processing
+1WBW 1nde
+there is 3568 bits on in 1WBW_A_aligned
+there is 578 bits on in 1nde
+0.354323667
+1WBW	1nde	0.0242215
+1WBW_tagged.mol2 and 1qkn_tagged.mol2 processing
+1WBW 1qkn
+there is 3568 bits on in 1WBW_A_aligned
+there is 594 bits on in 1qkn
+0.384872333
+1WBW	1qkn	0.023569
+1WBW_tagged.mol2 and 1sj0_tagged.mol2 processing
+1WBW 1sj0
+there is 3568 bits on in 1WBW_A_aligned
+there is 530 bits on in 1sj0
+0.378701292
+1WBW	1sj0	0.0264151
+1WBW_tagged.mol2 and 1uom_tagged.mol2 processing
+1WBW 1uom
+there is 3568 bits on in 1WBW_A_aligned
+there is 492 bits on in 1uom
+0.362423875
+1WBW	1uom	0.0264228
+1WBW_tagged.mol2 and 1x7r_tagged.mol2 processing
+1WBW 1x7r
+there is 3568 bits on in 1WBW_A_aligned
+there is 331 bits on in 1x7r
+0.365419417
+1WBW	1x7r	0.0151057
+1WBW_tagged.mol2 and 1xp1_tagged.mol2 processing
+1WBW 1xp1
+there is 3568 bits on in 1WBW_A_aligned
+there is 663 bits on in 1xp1
+0.355359625
+1WBW	1xp1	0.0271493
+1WBW_tagged.mol2 and 1xp6_tagged.mol2 processing
+1WBW 1xp6
+there is 3568 bits on in 1WBW_A_aligned
+there is 740 bits on in 1xp6
+0.370431583
+1WBW	1xp6	0.0297297
+1WBW_tagged.mol2 and 1xp9_tagged.mol2 processing
+1WBW 1xp9
+there is 3568 bits on in 1WBW_A_aligned
+there is 657 bits on in 1xp9
+0.358965583
+1WBW	1xp9	0.0273973
+1WBW_tagged.mol2 and 1xpc_tagged.mol2 processing
+1WBW 1xpc
+there is 3568 bits on in 1WBW_A_aligned
+there is 679 bits on in 1xpc
+0.360485208
+1WBW	1xpc	0.0265096
+1WBW_tagged.mol2 and 1xqc_tagged.mol2 processing
+1WBW 1xqc
+there is 3568 bits on in 1WBW_A_aligned
+there is 557 bits on in 1xqc
+0.382090666
+1WBW	1xqc	0.0233393
+1WBW_tagged.mol2 and 1yy4_tagged.mol2 processing
+1WBW 1yy4
+there is 3568 bits on in 1WBW_A_aligned
+there is 312 bits on in 1yy4
+0.385630708
+1WBW	1yy4	0.0128205
+1XO2_tagged.mol2 and 1CM8_tagged.mol2 processing
+1XO2 1CM8
+there is 3694 bits on in 1XO2_B_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.529157166
+1XO2	1CM8	0.130411
+1XO2_tagged.mol2 and 1K2P_tagged.mol2 processing
+1XO2 1K2P
+there is 3694 bits on in 1XO2_B_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.487765709
+1XO2	1K2P	0.112344
+1XO2_tagged.mol2 and 1PKG_tagged.mol2 processing
+1XO2 1PKG
+there is 3694 bits on in 1XO2_B_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.592676667
+1XO2	1PKG	0.109246
+1XO2_tagged.mol2 and 1S9I_tagged.mol2 processing
+1XO2 1S9I
+there is 3694 bits on in 1XO2_B_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.460869458
+1XO2	1S9I	0.123862
+1XO2_tagged.mol2 and 1U59_tagged.mol2 processing
+1XO2 1U59
+there is 3694 bits on in 1XO2_B_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.500918042
+1XO2	1U59	0.116042
+1XO2_tagged.mol2 and 1VZO_tagged.mol2 processing
+1XO2 1VZO
+there is 3694 bits on in 1XO2_B_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.655560375
+1XO2	1VZO	0.11093
+1XO2_tagged.mol2 and 1WAK_tagged.mol2 processing
+1XO2 1WAK
+there is 3694 bits on in 1XO2_B_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.591861792
+1XO2	1WAK	0.107005
+1XO2_tagged.mol2 and 1WBW_tagged.mol2 processing
+1XO2 1WBW
+there is 3694 bits on in 1XO2_B_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.570847959
+1XO2	1WBW	0.126121
+1XO2_tagged.mol2 and 1YI6_tagged.mol2 processing
+1XO2 1YI6
+there is 3694 bits on in 1XO2_B_aligned
+there is 3607 bits on in 1YI6_B_aligned
+0.476957125
+1XO2	1YI6	0.126421
+1XO2_tagged.mol2 and 1a52_tagged.mol2 processing
+1XO2 1a52
+there is 3694 bits on in 1XO2_B_aligned
+there is 278 bits on in 1a52
+0.32059625
+1XO2	1a52	0
+1XO2_tagged.mol2 and 1err_tagged.mol2 processing
+1XO2 1err
+there is 3694 bits on in 1XO2_B_aligned
+there is 530 bits on in 1err
+0.317214459
+1XO2	1err	0.0132075
+1XO2_tagged.mol2 and 1g50_tagged.mol2 processing
+1XO2 1g50
+there is 3694 bits on in 1XO2_B_aligned
+there is 305 bits on in 1g50
+0.322099959
+1XO2	1g50	0
+1XO2_tagged.mol2 and 1nde_tagged.mol2 processing
+1XO2 1nde
+there is 3694 bits on in 1XO2_B_aligned
+there is 578 bits on in 1nde
+0.316388209
+1XO2	1nde	0.0138408
+1XO2_tagged.mol2 and 1qkn_tagged.mol2 processing
+1XO2 1qkn
+there is 3694 bits on in 1XO2_B_aligned
+there is 594 bits on in 1qkn
+0.331101708
+1XO2	1qkn	0.0117845
+1XO2_tagged.mol2 and 1sj0_tagged.mol2 processing
+1XO2 1sj0
+there is 3694 bits on in 1XO2_B_aligned
+there is 530 bits on in 1sj0
+0.329677209
+1XO2	1sj0	0.0132075
+1XO2_tagged.mol2 and 1uom_tagged.mol2 processing
+1XO2 1uom
+there is 3694 bits on in 1XO2_B_aligned
+there is 492 bits on in 1uom
+0.326419292
+1XO2	1uom	0.0142276
+1XO2_tagged.mol2 and 1x7r_tagged.mol2 processing
+1XO2 1x7r
+there is 3694 bits on in 1XO2_B_aligned
+there is 331 bits on in 1x7r
+0.32470925
+1XO2	1x7r	0
+1XO2_tagged.mol2 and 1xp1_tagged.mol2 processing
+1XO2 1xp1
+there is 3694 bits on in 1XO2_B_aligned
+there is 663 bits on in 1xp1
+0.345406083
+1XO2	1xp1	0.0120664
+1XO2_tagged.mol2 and 1xp6_tagged.mol2 processing
+1XO2 1xp6
+there is 3694 bits on in 1XO2_B_aligned
+there is 740 bits on in 1xp6
+0.337897834
+1XO2	1xp6	0.0162162
+1XO2_tagged.mol2 and 1xp9_tagged.mol2 processing
+1XO2 1xp9
+there is 3694 bits on in 1XO2_B_aligned
+there is 657 bits on in 1xp9
+0.333966917
+1XO2	1xp9	0.0106545
+1XO2_tagged.mol2 and 1xpc_tagged.mol2 processing
+1XO2 1xpc
+there is 3694 bits on in 1XO2_B_aligned
+there is 679 bits on in 1xpc
+0.325117542
+1XO2	1xpc	0.0147275
+1XO2_tagged.mol2 and 1xqc_tagged.mol2 processing
+1XO2 1xqc
+there is 3694 bits on in 1XO2_B_aligned
+there is 557 bits on in 1xqc
+0.318105541
+1XO2	1xqc	0.016158
+1XO2_tagged.mol2 and 1yy4_tagged.mol2 processing
+1XO2 1yy4
+there is 3694 bits on in 1XO2_B_aligned
+there is 312 bits on in 1yy4
+0.332115708
+1XO2	1yy4	0
+1YI6_tagged.mol2 and 1CM8_tagged.mol2 processing
+1YI6 1CM8
+there is 3607 bits on in 1YI6_B_aligned
+there is 3650 bits on in 1CM8_B_aligned
+0.505693458
+1YI6	1CM8	0.118104
+1YI6_tagged.mol2 and 1K2P_tagged.mol2 processing
+1YI6 1K2P
+there is 3607 bits on in 1YI6_B_aligned
+there is 3725 bits on in 1K2P_A_aligned
+0.483996584
+1YI6	1K2P	0.133352
+1YI6_tagged.mol2 and 1PKG_tagged.mol2 processing
+1YI6 1PKG
+there is 3607 bits on in 1YI6_B_aligned
+there is 3634 bits on in 1PKG_A_aligned
+0.540136125
+1YI6	1PKG	0.1084
+1YI6_tagged.mol2 and 1S9I_tagged.mol2 processing
+1YI6 1S9I
+there is 3607 bits on in 1YI6_B_aligned
+there is 3294 bits on in 1S9I_A_aligned
+0.44427375
+1YI6	1S9I	0.124165
+1YI6_tagged.mol2 and 1U59_tagged.mol2 processing
+1YI6 1U59
+there is 3607 bits on in 1YI6_B_aligned
+there is 3628 bits on in 1U59_A_aligned
+0.456960583
+1YI6	1U59	0.133352
+1YI6_tagged.mol2 and 1VZO_tagged.mol2 processing
+1YI6 1VZO
+there is 3607 bits on in 1YI6_B_aligned
+there is 3687 bits on in 1VZO_A_aligned
+0.541064959
+1YI6	1VZO	0.115886
+1YI6_tagged.mol2 and 1WAK_tagged.mol2 processing
+1YI6 1WAK
+there is 3607 bits on in 1YI6_B_aligned
+there is 3626 bits on in 1WAK_A_aligned
+0.605621125
+1YI6	1WAK	0.106182
+1YI6_tagged.mol2 and 1WBW_tagged.mol2 processing
+1YI6 1WBW
+there is 3607 bits on in 1YI6_B_aligned
+there is 3568 bits on in 1WBW_A_aligned
+0.49917225
+1YI6	1WBW	0.118554
+1YI6_tagged.mol2 and 1XO2_tagged.mol2 processing
+1YI6 1XO2
+there is 3607 bits on in 1YI6_B_aligned
+there is 3694 bits on in 1XO2_B_aligned
+0.467066792
+1YI6	1XO2	0.126421
+1YI6_tagged.mol2 and 1a52_tagged.mol2 processing
+1YI6 1a52
+there is 3607 bits on in 1YI6_B_aligned
+there is 278 bits on in 1a52
+0.323996458
+1YI6	1a52	0.0179856
+1YI6_tagged.mol2 and 1err_tagged.mol2 processing
+1YI6 1err
+there is 3607 bits on in 1YI6_B_aligned
+there is 530 bits on in 1err
+0.323912375
+1YI6	1err	0.0188679
+1YI6_tagged.mol2 and 1g50_tagged.mol2 processing
+1YI6 1g50
+there is 3607 bits on in 1YI6_B_aligned
+there is 305 bits on in 1g50
+0.337900917
+1YI6	1g50	0.0163934
+1YI6_tagged.mol2 and 1nde_tagged.mol2 processing
+1YI6 1nde
+there is 3607 bits on in 1YI6_B_aligned
+there is 578 bits on in 1nde
+0.336915333
+1YI6	1nde	0.0190311
+1YI6_tagged.mol2 and 1qkn_tagged.mol2 processing
+1YI6 1qkn
+there is 3607 bits on in 1YI6_B_aligned
+there is 594 bits on in 1qkn
+0.337878
+1YI6	1qkn	0.026936
+1YI6_tagged.mol2 and 1sj0_tagged.mol2 processing
+1YI6 1sj0
+there is 3607 bits on in 1YI6_B_aligned
+there is 530 bits on in 1sj0
+0.325204542
+1YI6	1sj0	0.0226415
+1YI6_tagged.mol2 and 1uom_tagged.mol2 processing
+1YI6 1uom
+there is 3607 bits on in 1YI6_B_aligned
+there is 492 bits on in 1uom
+0.326497458
+1YI6	1uom	0.0203252
+1YI6_tagged.mol2 and 1x7r_tagged.mol2 processing
+1YI6 1x7r
+there is 3607 bits on in 1YI6_B_aligned
+there is 331 bits on in 1x7r
+0.324573625
+1YI6	1x7r	0.021148
+1YI6_tagged.mol2 and 1xp1_tagged.mol2 processing
+1YI6 1xp1
+there is 3607 bits on in 1YI6_B_aligned
+there is 663 bits on in 1xp1
+0.342396584
+1YI6	1xp1	0.0226244
+1YI6_tagged.mol2 and 1xp6_tagged.mol2 processing
+1YI6 1xp6
+there is 3607 bits on in 1YI6_B_aligned
+there is 740 bits on in 1xp6
+0.339669417
+1YI6	1xp6	0.0256757
+1YI6_tagged.mol2 and 1xp9_tagged.mol2 processing
+1YI6 1xp9
+there is 3607 bits on in 1YI6_B_aligned
+there is 657 bits on in 1xp9
+0.324900375
+1YI6	1xp9	0.0243531
+1YI6_tagged.mol2 and 1xpc_tagged.mol2 processing
+1YI6 1xpc
+there is 3607 bits on in 1YI6_B_aligned
+there is 679 bits on in 1xpc
+0.328376958
+1YI6	1xpc	0.0235641
+1YI6_tagged.mol2 and 1xqc_tagged.mol2 processing
+1YI6 1xqc
+there is 3607 bits on in 1YI6_B_aligned
+there is 557 bits on in 1xqc
+0.330528625
+1YI6	1xqc	0.0233393
+1YI6_tagged.mol2 and 1yy4_tagged.mol2 processing
+1YI6 1yy4
+there is 3607 bits on in 1YI6_B_aligned
+there is 312 bits on in 1yy4
+0.326398667
+1YI6	1yy4	0.0192308
+1a52_tagged.mol2 and 1CM8_tagged.mol2 processing
+1a52 1CM8
+there is 278 bits on in 1a52
+there is 3650 bits on in 1CM8_B_aligned
+0.338693625
+1a52	1CM8	0.0107914
+1a52_tagged.mol2 and 1K2P_tagged.mol2 processing
+1a52 1K2P
+there is 278 bits on in 1a52
+there is 3725 bits on in 1K2P_A_aligned
+0.343023834
+1a52	1K2P	0.00719424
+1a52_tagged.mol2 and 1PKG_tagged.mol2 processing
+1a52 1PKG
+there is 278 bits on in 1a52
+there is 3634 bits on in 1PKG_A_aligned
+0.386597666
+1a52	1PKG	0.00359712
+1a52_tagged.mol2 and 1S9I_tagged.mol2 processing
+1a52 1S9I
+there is 278 bits on in 1a52
+there is 3294 bits on in 1S9I_A_aligned
+0.312179792
+1a52	1S9I	0.0179856
+1a52_tagged.mol2 and 1U59_tagged.mol2 processing
+1a52 1U59
+there is 278 bits on in 1a52
+there is 3628 bits on in 1U59_A_aligned
+0.302259292
+1a52	1U59	0.00719424
+1a52_tagged.mol2 and 1VZO_tagged.mol2 processing
+1a52 1VZO
+there is 278 bits on in 1a52
+there is 3687 bits on in 1VZO_A_aligned
+0.39597475
+1a52	1VZO	0.00359712
+1a52_tagged.mol2 and 1WAK_tagged.mol2 processing
+1a52 1WAK
+there is 278 bits on in 1a52
+there is 3626 bits on in 1WAK_A_aligned
+0.403023041
+1a52	1WAK	0.00719424
+1a52_tagged.mol2 and 1WBW_tagged.mol2 processing
+1a52 1WBW
+there is 278 bits on in 1a52
+there is 3568 bits on in 1WBW_A_aligned
+0.357488667
+1a52	1WBW	0.0179856
+1a52_tagged.mol2 and 1XO2_tagged.mol2 processing
+1a52 1XO2
+there is 278 bits on in 1a52
+there is 3694 bits on in 1XO2_B_aligned
+0.317428125
+1a52	1XO2	0
+1a52_tagged.mol2 and 1YI6_tagged.mol2 processing
+1a52 1YI6
+there is 278 bits on in 1a52
+there is 3607 bits on in 1YI6_B_aligned
+0.353661542
+1a52	1YI6	0.0179856
+1a52_tagged.mol2 and 1err_tagged.mol2 processing
+1a52 1err
+there is 278 bits on in 1a52
+there is 530 bits on in 1err
+0.090336666
+1a52	1err	0.359712
+1a52_tagged.mol2 and 1g50_tagged.mol2 processing
+1a52 1g50
+there is 278 bits on in 1a52
+there is 305 bits on in 1g50
+0.0874555
+1a52	1g50	0.377698
+1a52_tagged.mol2 and 1nde_tagged.mol2 processing
+1a52 1nde
+there is 278 bits on in 1a52
+there is 578 bits on in 1nde
+0.08746825
+1a52	1nde	0.323741
+1a52_tagged.mol2 and 1qkn_tagged.mol2 processing
+1a52 1qkn
+there is 278 bits on in 1a52
+there is 594 bits on in 1qkn
+0.088784459
+1a52	1qkn	0.338129
+1a52_tagged.mol2 and 1sj0_tagged.mol2 processing
+1a52 1sj0
+there is 278 bits on in 1a52
+there is 530 bits on in 1sj0
+0.096181
+1a52	1sj0	0.428058
+1a52_tagged.mol2 and 1uom_tagged.mol2 processing
+1a52 1uom
+there is 278 bits on in 1a52
+there is 492 bits on in 1uom
+0.087830834
+1a52	1uom	0.496403
+1a52_tagged.mol2 and 1x7r_tagged.mol2 processing
+1a52 1x7r
+there is 278 bits on in 1a52
+there is 331 bits on in 1x7r
+0.088317125
+1a52	1x7r	0.618705
+1a52_tagged.mol2 and 1xp1_tagged.mol2 processing
+1a52 1xp1
+there is 278 bits on in 1a52
+there is 663 bits on in 1xp1
+0.090077208
+1a52	1xp1	0.395683
+1a52_tagged.mol2 and 1xp6_tagged.mol2 processing
+1a52 1xp6
+there is 278 bits on in 1a52
+there is 740 bits on in 1xp6
+0.088101916
+1a52	1xp6	0.363309
+1a52_tagged.mol2 and 1xp9_tagged.mol2 processing
+1a52 1xp9
+there is 278 bits on in 1a52
+there is 657 bits on in 1xp9
+0.08877825
+1a52	1xp9	0.395683
+1a52_tagged.mol2 and 1xpc_tagged.mol2 processing
+1a52 1xpc
+there is 278 bits on in 1a52
+there is 679 bits on in 1xpc
+0.08771475
+1a52	1xpc	0.384892
+1a52_tagged.mol2 and 1xqc_tagged.mol2 processing
+1a52 1xqc
+there is 278 bits on in 1a52
+there is 557 bits on in 1xqc
+0.094112917
+1a52	1xqc	0.406475
+1a52_tagged.mol2 and 1yy4_tagged.mol2 processing
+1a52 1yy4
+there is 278 bits on in 1a52
+there is 312 bits on in 1yy4
+0.091057209
+1a52	1yy4	0.503597
+1err_tagged.mol2 and 1CM8_tagged.mol2 processing
+1err 1CM8
+there is 530 bits on in 1err
+there is 3650 bits on in 1CM8_B_aligned
+0.363410583
+1err	1CM8	0.0169811
+1err_tagged.mol2 and 1K2P_tagged.mol2 processing
+1err 1K2P
+there is 530 bits on in 1err
+there is 3725 bits on in 1K2P_A_aligned
+0.357986833
+1err	1K2P	0.0113208
+1err_tagged.mol2 and 1PKG_tagged.mol2 processing
+1err 1PKG
+there is 530 bits on in 1err
+there is 3634 bits on in 1PKG_A_aligned
+0.448746417
+1err	1PKG	0.00943396
+1err_tagged.mol2 and 1S9I_tagged.mol2 processing
+1err 1S9I
+there is 530 bits on in 1err
+there is 3294 bits on in 1S9I_A_aligned
+0.334164417
+1err	1S9I	0.0358491
+1err_tagged.mol2 and 1U59_tagged.mol2 processing
+1err 1U59
+there is 530 bits on in 1err
+there is 3628 bits on in 1U59_A_aligned
+0.334459708
+1err	1U59	0.0169811
+1err_tagged.mol2 and 1VZO_tagged.mol2 processing
+1err 1VZO
+there is 530 bits on in 1err
+there is 3687 bits on in 1VZO_A_aligned
+0.410767
+1err	1VZO	0.00943396
+1err_tagged.mol2 and 1WAK_tagged.mol2 processing
+1err 1WAK
+there is 530 bits on in 1err
+there is 3626 bits on in 1WAK_A_aligned
+0.414107958
+1err	1WAK	0.0132075
+1err_tagged.mol2 and 1WBW_tagged.mol2 processing
+1err 1WBW
+there is 530 bits on in 1err
+there is 3568 bits on in 1WBW_A_aligned
+0.382400917
+1err	1WBW	0.0207547
+1err_tagged.mol2 and 1XO2_tagged.mol2 processing
+1err 1XO2
+there is 530 bits on in 1err
+there is 3694 bits on in 1XO2_B_aligned
+0.332275417
+1err	1XO2	0.0132075
+1err_tagged.mol2 and 1YI6_tagged.mol2 processing
+1err 1YI6
+there is 530 bits on in 1err
+there is 3607 bits on in 1YI6_B_aligned
+0.333810083
+1err	1YI6	0.0188679
+1err_tagged.mol2 and 1a52_tagged.mol2 processing
+1err 1a52
+there is 530 bits on in 1err
+there is 278 bits on in 1a52
+0.083884709
+1err	1a52	0.359712
+1err_tagged.mol2 and 1g50_tagged.mol2 processing
+1err 1g50
+there is 530 bits on in 1err
+there is 305 bits on in 1g50
+0.081438708
+1err	1g50	0.24918
+1err_tagged.mol2 and 1nde_tagged.mol2 processing
+1err 1nde
+there is 530 bits on in 1err
+there is 578 bits on in 1nde
+0.089976666
+1err	1nde	0.439623
+1err_tagged.mol2 and 1qkn_tagged.mol2 processing
+1err 1qkn
+there is 530 bits on in 1err
+there is 594 bits on in 1qkn
+0.094771542
+1err	1qkn	0.632075
+1err_tagged.mol2 and 1sj0_tagged.mol2 processing
+1err 1sj0
+there is 530 bits on in 1err
+there is 530 bits on in 1sj0
+0.092894167
+1err	1sj0	0.477358
+1err_tagged.mol2 and 1uom_tagged.mol2 processing
+1err 1uom
+there is 530 bits on in 1err
+there is 492 bits on in 1uom
+0.085372291
+1err	1uom	0.563008
+1err_tagged.mol2 and 1x7r_tagged.mol2 processing
+1err 1x7r
+there is 530 bits on in 1err
+there is 331 bits on in 1x7r
+0.090250042
+1err	1x7r	0.404834
+1err_tagged.mol2 and 1xp1_tagged.mol2 processing
+1err 1xp1
+there is 530 bits on in 1err
+there is 663 bits on in 1xp1
+0.09402025
+1err	1xp1	0.45283
+1err_tagged.mol2 and 1xp6_tagged.mol2 processing
+1err 1xp6
+there is 530 bits on in 1err
+there is 740 bits on in 1xp6
+0.099318208
+1err	1xp6	0.441509
+1err_tagged.mol2 and 1xp9_tagged.mol2 processing
+1err 1xp9
+there is 530 bits on in 1err
+there is 657 bits on in 1xp9
+0.091567375
+1err	1xp9	0.479245
+1err_tagged.mol2 and 1xpc_tagged.mol2 processing
+1err 1xpc
+there is 530 bits on in 1err
+there is 679 bits on in 1xpc
+0.090032292
+1err	1xpc	0.475472
+1err_tagged.mol2 and 1xqc_tagged.mol2 processing
+1err 1xqc
+there is 530 bits on in 1err
+there is 557 bits on in 1xqc
+0.0897975
+1err	1xqc	0.550943
+1err_tagged.mol2 and 1yy4_tagged.mol2 processing
+1err 1yy4
+there is 530 bits on in 1err
+there is 312 bits on in 1yy4
+0.08530725
+1err	1yy4	0.349359
+1g50_tagged.mol2 and 1CM8_tagged.mol2 processing
+1g50 1CM8
+there is 305 bits on in 1g50
+there is 3650 bits on in 1CM8_B_aligned
+0.336413417
+1g50	1CM8	0.00327869
+1g50_tagged.mol2 and 1K2P_tagged.mol2 processing
+1g50 1K2P
+there is 305 bits on in 1g50
+there is 3725 bits on in 1K2P_A_aligned
+0.331929375
+1g50	1K2P	0.00655738
+1g50_tagged.mol2 and 1PKG_tagged.mol2 processing
+1g50 1PKG
+there is 305 bits on in 1g50
+there is 3634 bits on in 1PKG_A_aligned
+0.387109458
+1g50	1PKG	0
+1g50_tagged.mol2 and 1S9I_tagged.mol2 processing
+1g50 1S9I
+there is 305 bits on in 1g50
+there is 3294 bits on in 1S9I_A_aligned
+0.294874042
+1g50	1S9I	0.0295082
+1g50_tagged.mol2 and 1U59_tagged.mol2 processing
+1g50 1U59
+there is 305 bits on in 1g50
+there is 3628 bits on in 1U59_A_aligned
+0.30648475
+1g50	1U59	0.00983607
+1g50_tagged.mol2 and 1VZO_tagged.mol2 processing
+1g50 1VZO
+there is 305 bits on in 1g50
+there is 3687 bits on in 1VZO_A_aligned
+0.414418375
+1g50	1VZO	0.00327869
+1g50_tagged.mol2 and 1WAK_tagged.mol2 processing
+1g50 1WAK
+there is 305 bits on in 1g50
+there is 3626 bits on in 1WAK_A_aligned
+0.404382334
+1g50	1WAK	0.00655738
+1g50_tagged.mol2 and 1WBW_tagged.mol2 processing
+1g50 1WBW
+there is 305 bits on in 1g50
+there is 3568 bits on in 1WBW_A_aligned
+0.370201667
+1g50	1WBW	0.0163934
+1g50_tagged.mol2 and 1XO2_tagged.mol2 processing
+1g50 1XO2
+there is 305 bits on in 1g50
+there is 3694 bits on in 1XO2_B_aligned
+0.317708583
+1g50	1XO2	0
+1g50_tagged.mol2 and 1YI6_tagged.mol2 processing
+1g50 1YI6
+there is 305 bits on in 1g50
+there is 3607 bits on in 1YI6_B_aligned
+0.353086959
+1g50	1YI6	0.0163934
+1g50_tagged.mol2 and 1a52_tagged.mol2 processing
+1g50 1a52
+there is 305 bits on in 1g50
+there is 278 bits on in 1a52
+0.088444959
+1g50	1a52	0.377698
+1g50_tagged.mol2 and 1err_tagged.mol2 processing
+1g50 1err
+there is 305 bits on in 1g50
+there is 530 bits on in 1err
+0.087794917
+1g50	1err	0.24918
+1g50_tagged.mol2 and 1nde_tagged.mol2 processing
+1g50 1nde
+there is 305 bits on in 1g50
+there is 578 bits on in 1nde
+0.090451416
+1g50	1nde	0.268852
+1g50_tagged.mol2 and 1qkn_tagged.mol2 processing
+1g50 1qkn
+there is 305 bits on in 1g50
+there is 594 bits on in 1qkn
+0.086403417
+1g50	1qkn	0.288525
+1g50_tagged.mol2 and 1sj0_tagged.mol2 processing
+1g50 1sj0
+there is 305 bits on in 1g50
+there is 530 bits on in 1sj0
+0.087366875
+1g50	1sj0	0.318033
+1g50_tagged.mol2 and 1uom_tagged.mol2 processing
+1g50 1uom
+there is 305 bits on in 1g50
+there is 492 bits on in 1uom
+0.08711675
+1g50	1uom	0.308197
+1g50_tagged.mol2 and 1x7r_tagged.mol2 processing
+1g50 1x7r
+there is 305 bits on in 1g50
+there is 331 bits on in 1x7r
+0.084333292
+1g50	1x7r	0.383607
+1g50_tagged.mol2 and 1xp1_tagged.mol2 processing
+1g50 1xp1
+there is 305 bits on in 1g50
+there is 663 bits on in 1xp1
+0.091926958
+1g50	1xp1	0.262295
+1g50_tagged.mol2 and 1xp6_tagged.mol2 processing
+1g50 1xp6
+there is 305 bits on in 1g50
+there is 740 bits on in 1xp6
+0.088778125
+1g50	1xp6	0.24918
+1g50_tagged.mol2 and 1xp9_tagged.mol2 processing
+1g50 1xp9
+there is 305 bits on in 1g50
+there is 657 bits on in 1xp9
+0.089119292
+1g50	1xp9	0.259016
+1g50_tagged.mol2 and 1xpc_tagged.mol2 processing
+1g50 1xpc
+there is 305 bits on in 1g50
+there is 679 bits on in 1xpc
+0.088789167
+1g50	1xpc	0.219672
+1g50_tagged.mol2 and 1xqc_tagged.mol2 processing
+1g50 1xqc
+there is 305 bits on in 1g50
+there is 557 bits on in 1xqc
+0.085858625
+1g50	1xqc	0.288525
+1g50_tagged.mol2 and 1yy4_tagged.mol2 processing
+1g50 1yy4
+there is 305 bits on in 1g50
+there is 312 bits on in 1yy4
+0.080795834
+1g50	1yy4	0.52459
+1nde_tagged.mol2 and 1CM8_tagged.mol2 processing
+1nde 1CM8
+there is 578 bits on in 1nde
+there is 3650 bits on in 1CM8_B_aligned
+0.336628625
+1nde	1CM8	0.0155709
+1nde_tagged.mol2 and 1K2P_tagged.mol2 processing
+1nde 1K2P
+there is 578 bits on in 1nde
+there is 3725 bits on in 1K2P_A_aligned
+0.353046708
+1nde	1K2P	0.0138408
+1nde_tagged.mol2 and 1PKG_tagged.mol2 processing
+1nde 1PKG
+there is 578 bits on in 1nde
+there is 3634 bits on in 1PKG_A_aligned
+0.398463625
+1nde	1PKG	0.00692042
+1nde_tagged.mol2 and 1S9I_tagged.mol2 processing
+1nde 1S9I
+there is 578 bits on in 1nde
+there is 3294 bits on in 1S9I_A_aligned
+0.302495375
+1nde	1S9I	0.0415225
+1nde_tagged.mol2 and 1U59_tagged.mol2 processing
+1nde 1U59
+there is 578 bits on in 1nde
+there is 3628 bits on in 1U59_A_aligned
+0.315866375
+1nde	1U59	0.0121107
+1nde_tagged.mol2 and 1VZO_tagged.mol2 processing
+1nde 1VZO
+there is 578 bits on in 1nde
+there is 3687 bits on in 1VZO_A_aligned
+0.406177166
+1nde	1VZO	0.00692042
+1nde_tagged.mol2 and 1WAK_tagged.mol2 processing
+1nde 1WAK
+there is 578 bits on in 1nde
+there is 3626 bits on in 1WAK_A_aligned
+0.412382458
+1nde	1WAK	0.0155709
+1nde_tagged.mol2 and 1WBW_tagged.mol2 processing
+1nde 1WBW
+there is 578 bits on in 1nde
+there is 3568 bits on in 1WBW_A_aligned
+0.383127125
+1nde	1WBW	0.0242215
+1nde_tagged.mol2 and 1XO2_tagged.mol2 processing
+1nde 1XO2
+there is 578 bits on in 1nde
+there is 3694 bits on in 1XO2_B_aligned
+0.33669225
+1nde	1XO2	0.0138408
+1nde_tagged.mol2 and 1YI6_tagged.mol2 processing
+1nde 1YI6
+there is 578 bits on in 1nde
+there is 3607 bits on in 1YI6_B_aligned
+0.330366417
+1nde	1YI6	0.0190311
+1nde_tagged.mol2 and 1a52_tagged.mol2 processing
+1nde 1a52
+there is 578 bits on in 1nde
+there is 278 bits on in 1a52
+0.08773675
+1nde	1a52	0.323741
+1nde_tagged.mol2 and 1err_tagged.mol2 processing
+1nde 1err
+there is 578 bits on in 1nde
+there is 530 bits on in 1err
+0.091742875
+1nde	1err	0.439623
+1nde_tagged.mol2 and 1g50_tagged.mol2 processing
+1nde 1g50
+there is 578 bits on in 1nde
+there is 305 bits on in 1g50
+0.085911
+1nde	1g50	0.268852
+1nde_tagged.mol2 and 1qkn_tagged.mol2 processing
+1nde 1qkn
+there is 578 bits on in 1nde
+there is 594 bits on in 1qkn
+0.089578583
+1nde	1qkn	0.387543
+1nde_tagged.mol2 and 1sj0_tagged.mol2 processing
+1nde 1sj0
+there is 578 bits on in 1nde
+there is 530 bits on in 1sj0
+0.089500875
+1nde	1sj0	0.335849
+1nde_tagged.mol2 and 1uom_tagged.mol2 processing
+1nde 1uom
+there is 578 bits on in 1nde
+there is 492 bits on in 1uom
+0.086351917
+1nde	1uom	0.398374
+1nde_tagged.mol2 and 1x7r_tagged.mol2 processing
+1nde 1x7r
+there is 578 bits on in 1nde
+there is 331 bits on in 1x7r
+0.085398542
+1nde	1x7r	0.413897
+1nde_tagged.mol2 and 1xp1_tagged.mol2 processing
+1nde 1xp1
+there is 578 bits on in 1nde
+there is 663 bits on in 1xp1
+0.089387459
+1nde	1xp1	0.32699
+1nde_tagged.mol2 and 1xp6_tagged.mol2 processing
+1nde 1xp6
+there is 578 bits on in 1nde
+there is 740 bits on in 1xp6
+0.091566042
+1nde	1xp6	0.323529
+1nde_tagged.mol2 and 1xp9_tagged.mol2 processing
+1nde 1xp9
+there is 578 bits on in 1nde
+there is 657 bits on in 1xp9
+0.091211083
+1nde	1xp9	0.323529
+1nde_tagged.mol2 and 1xpc_tagged.mol2 processing
+1nde 1xpc
+there is 578 bits on in 1nde
+there is 679 bits on in 1xpc
+0.088139208
+1nde	1xpc	0.354671
+1nde_tagged.mol2 and 1xqc_tagged.mol2 processing
+1nde 1xqc
+there is 578 bits on in 1nde
+there is 557 bits on in 1xqc
+0.086733125
+1nde	1xqc	0.378815
+1nde_tagged.mol2 and 1yy4_tagged.mol2 processing
+1nde 1yy4
+there is 578 bits on in 1nde
+there is 312 bits on in 1yy4
+0.087156083
+1nde	1yy4	0.259615
+1qkn_tagged.mol2 and 1CM8_tagged.mol2 processing
+1qkn 1CM8
+there is 594 bits on in 1qkn
+there is 3650 bits on in 1CM8_B_aligned
+0.335449583
+1qkn	1CM8	0.0151515
+1qkn_tagged.mol2 and 1K2P_tagged.mol2 processing
+1qkn 1K2P
+there is 594 bits on in 1qkn
+there is 3725 bits on in 1K2P_A_aligned
+0.338404916
+1qkn	1K2P	0.0117845
+1qkn_tagged.mol2 and 1PKG_tagged.mol2 processing
+1qkn 1PKG
+there is 594 bits on in 1qkn
+there is 3634 bits on in 1PKG_A_aligned
+0.40242775
+1qkn	1PKG	0.0117845
+1qkn_tagged.mol2 and 1S9I_tagged.mol2 processing
+1qkn 1S9I
+there is 594 bits on in 1qkn
+there is 3294 bits on in 1S9I_A_aligned
+0.298745958
+1qkn	1S9I	0.03367
+1qkn_tagged.mol2 and 1U59_tagged.mol2 processing
+1qkn 1U59
+there is 594 bits on in 1qkn
+there is 3628 bits on in 1U59_A_aligned
+0.305451709
+1qkn	1U59	0.0218855
+1qkn_tagged.mol2 and 1VZO_tagged.mol2 processing
+1qkn 1VZO
+there is 594 bits on in 1qkn
+there is 3687 bits on in 1VZO_A_aligned
+0.398312125
+1qkn	1VZO	0.010101
+1qkn_tagged.mol2 and 1WAK_tagged.mol2 processing
+1qkn 1WAK
+there is 594 bits on in 1qkn
+there is 3626 bits on in 1WAK_A_aligned
+0.407472166
+1qkn	1WAK	0.0151515
+1qkn_tagged.mol2 and 1WBW_tagged.mol2 processing
+1qkn 1WBW
+there is 594 bits on in 1qkn
+there is 3568 bits on in 1WBW_A_aligned
+0.371657541
+1qkn	1WBW	0.023569
+1qkn_tagged.mol2 and 1XO2_tagged.mol2 processing
+1qkn 1XO2
+there is 594 bits on in 1qkn
+there is 3694 bits on in 1XO2_B_aligned
+0.322144
+1qkn	1XO2	0.0117845
+1qkn_tagged.mol2 and 1YI6_tagged.mol2 processing
+1qkn 1YI6
+there is 594 bits on in 1qkn
+there is 3607 bits on in 1YI6_B_aligned
+0.330397875
+1qkn	1YI6	0.026936
+1qkn_tagged.mol2 and 1a52_tagged.mol2 processing
+1qkn 1a52
+there is 594 bits on in 1qkn
+there is 278 bits on in 1a52
+0.094245083
+1qkn	1a52	0.338129
+1qkn_tagged.mol2 and 1err_tagged.mol2 processing
+1qkn 1err
+there is 594 bits on in 1qkn
+there is 530 bits on in 1err
+0.096401667
+1qkn	1err	0.632075
+1qkn_tagged.mol2 and 1g50_tagged.mol2 processing
+1qkn 1g50
+there is 594 bits on in 1qkn
+there is 305 bits on in 1g50
+0.087575542
+1qkn	1g50	0.288525
+1qkn_tagged.mol2 and 1nde_tagged.mol2 processing
+1qkn 1nde
+there is 594 bits on in 1qkn
+there is 578 bits on in 1nde
+0.087796166
+1qkn	1nde	0.387543
+1qkn_tagged.mol2 and 1sj0_tagged.mol2 processing
+1qkn 1sj0
+there is 594 bits on in 1qkn
+there is 530 bits on in 1sj0
+0.089119917
+1qkn	1sj0	0.573585
+1qkn_tagged.mol2 and 1uom_tagged.mol2 processing
+1qkn 1uom
+there is 594 bits on in 1qkn
+there is 492 bits on in 1uom
+0.090197667
+1qkn	1uom	0.550813
+1qkn_tagged.mol2 and 1x7r_tagged.mol2 processing
+1qkn 1x7r
+there is 594 bits on in 1qkn
+there is 331 bits on in 1x7r
+0.086624583
+1qkn	1x7r	0.41994
+1qkn_tagged.mol2 and 1xp1_tagged.mol2 processing
+1qkn 1xp1
+there is 594 bits on in 1qkn
+there is 663 bits on in 1xp1
+0.092652041
+1qkn	1xp1	0.464646
+1qkn_tagged.mol2 and 1xp6_tagged.mol2 processing
+1qkn 1xp6
+there is 594 bits on in 1qkn
+there is 740 bits on in 1xp6
+0.099904959
+1qkn	1xp6	0.452862
+1qkn_tagged.mol2 and 1xp9_tagged.mol2 processing
+1qkn 1xp9
+there is 594 bits on in 1qkn
+there is 657 bits on in 1xp9
+0.096517792
+1qkn	1xp9	0.483165
+1qkn_tagged.mol2 and 1xpc_tagged.mol2 processing
+1qkn 1xpc
+there is 594 bits on in 1qkn
+there is 679 bits on in 1xpc
+0.093923
+1qkn	1xpc	0.494949
+1qkn_tagged.mol2 and 1xqc_tagged.mol2 processing
+1qkn 1xqc
+there is 594 bits on in 1qkn
+there is 557 bits on in 1xqc
+0.08900775
+1qkn	1xqc	0.527828
+1qkn_tagged.mol2 and 1yy4_tagged.mol2 processing
+1qkn 1yy4
+there is 594 bits on in 1qkn
+there is 312 bits on in 1yy4
+0.088789083
+1qkn	1yy4	0.320513
+1sj0_tagged.mol2 and 1CM8_tagged.mol2 processing
+1sj0 1CM8
+there is 530 bits on in 1sj0
+there is 3650 bits on in 1CM8_B_aligned
+0.350634667
+1sj0	1CM8	0.0169811
+1sj0_tagged.mol2 and 1K2P_tagged.mol2 processing
+1sj0 1K2P
+there is 530 bits on in 1sj0
+there is 3725 bits on in 1K2P_A_aligned
+0.343774125
+1sj0	1K2P	0.0113208
+1sj0_tagged.mol2 and 1PKG_tagged.mol2 processing
+1sj0 1PKG
+there is 530 bits on in 1sj0
+there is 3634 bits on in 1PKG_A_aligned
+0.41545375
+1sj0	1PKG	0.00943396
+1sj0_tagged.mol2 and 1S9I_tagged.mol2 processing
+1sj0 1S9I
+there is 530 bits on in 1sj0
+there is 3294 bits on in 1S9I_A_aligned
+0.306003417
+1sj0	1S9I	0.0320755
+1sj0_tagged.mol2 and 1U59_tagged.mol2 processing
+1sj0 1U59
+there is 530 bits on in 1sj0
+there is 3628 bits on in 1U59_A_aligned
+0.311623041
+1sj0	1U59	0.0132075
+1sj0_tagged.mol2 and 1VZO_tagged.mol2 processing
+1sj0 1VZO
+there is 530 bits on in 1sj0
+there is 3687 bits on in 1VZO_A_aligned
+0.406092458
+1sj0	1VZO	0.00754717
+1sj0_tagged.mol2 and 1WAK_tagged.mol2 processing
+1sj0 1WAK
+there is 530 bits on in 1sj0
+there is 3626 bits on in 1WAK_A_aligned
+0.404971417
+1sj0	1WAK	0.0150943
+1sj0_tagged.mol2 and 1WBW_tagged.mol2 processing
+1sj0 1WBW
+there is 530 bits on in 1sj0
+there is 3568 bits on in 1WBW_A_aligned
+0.365265167
+1sj0	1WBW	0.0264151
+1sj0_tagged.mol2 and 1XO2_tagged.mol2 processing
+1sj0 1XO2
+there is 530 bits on in 1sj0
+there is 3694 bits on in 1XO2_B_aligned
+0.322802667
+1sj0	1XO2	0.0132075
+1sj0_tagged.mol2 and 1YI6_tagged.mol2 processing
+1sj0 1YI6
+there is 530 bits on in 1sj0
+there is 3607 bits on in 1YI6_B_aligned
+0.343179917
+1sj0	1YI6	0.0226415
+1sj0_tagged.mol2 and 1a52_tagged.mol2 processing
+1sj0 1a52
+there is 530 bits on in 1sj0
+there is 278 bits on in 1a52
+0.084576167
+1sj0	1a52	0.428058
+1sj0_tagged.mol2 and 1err_tagged.mol2 processing
+1sj0 1err
+there is 530 bits on in 1sj0
+there is 530 bits on in 1err
+0.088792
+1sj0	1err	0.477358
+1sj0_tagged.mol2 and 1g50_tagged.mol2 processing
+1sj0 1g50
+there is 530 bits on in 1sj0
+there is 305 bits on in 1g50
+0.086906166
+1sj0	1g50	0.318033
+1sj0_tagged.mol2 and 1nde_tagged.mol2 processing
+1sj0 1nde
+there is 530 bits on in 1sj0
+there is 578 bits on in 1nde
+0.094623
+1sj0	1nde	0.335849
+1sj0_tagged.mol2 and 1qkn_tagged.mol2 processing
+1sj0 1qkn
+there is 530 bits on in 1sj0
+there is 594 bits on in 1qkn
+0.089132333
+1sj0	1qkn	0.573585
+1sj0_tagged.mol2 and 1uom_tagged.mol2 processing
+1sj0 1uom
+there is 530 bits on in 1sj0
+there is 492 bits on in 1uom
+0.083864792
+1sj0	1uom	0.640244
+1sj0_tagged.mol2 and 1x7r_tagged.mol2 processing
+1sj0 1x7r
+there is 530 bits on in 1sj0
+there is 331 bits on in 1x7r
+0.087696625
+1sj0	1x7r	0.332326
+1sj0_tagged.mol2 and 1xp1_tagged.mol2 processing
+1sj0 1xp1
+there is 530 bits on in 1sj0
+there is 663 bits on in 1xp1
+0.091316458
+1sj0	1xp1	0.711321
+1sj0_tagged.mol2 and 1xp6_tagged.mol2 processing
+1sj0 1xp6
+there is 530 bits on in 1sj0
+there is 740 bits on in 1xp6
+0.08954925
+1sj0	1xp6	0.690566
+1sj0_tagged.mol2 and 1xp9_tagged.mol2 processing
+1sj0 1xp9
+there is 530 bits on in 1sj0
+there is 657 bits on in 1xp9
+0.090537084
+1sj0	1xp9	0.667925
+1sj0_tagged.mol2 and 1xpc_tagged.mol2 processing
+1sj0 1xpc
+there is 530 bits on in 1sj0
+there is 679 bits on in 1xpc
+0.091788208
+1sj0	1xpc	0.669811
+1sj0_tagged.mol2 and 1xqc_tagged.mol2 processing
+1sj0 1xqc
+there is 530 bits on in 1sj0
+there is 557 bits on in 1xqc
+0.087752791
+1sj0	1xqc	0.543396
+1sj0_tagged.mol2 and 1yy4_tagged.mol2 processing
+1sj0 1yy4
+there is 530 bits on in 1sj0
+there is 312 bits on in 1yy4
+0.087089375
+1sj0	1yy4	0.307692
+1uom_tagged.mol2 and 1CM8_tagged.mol2 processing
+1uom 1CM8
+there is 492 bits on in 1uom
+there is 3650 bits on in 1CM8_B_aligned
+0.333407666
+1uom	1CM8	0.0182927
+1uom_tagged.mol2 and 1K2P_tagged.mol2 processing
+1uom 1K2P
+there is 492 bits on in 1uom
+there is 3725 bits on in 1K2P_A_aligned
+0.334438125
+1uom	1K2P	0.0121951
+1uom_tagged.mol2 and 1PKG_tagged.mol2 processing
+1uom 1PKG
+there is 492 bits on in 1uom
+there is 3634 bits on in 1PKG_A_aligned
+0.392393375
+1uom	1PKG	0.00813008
+1uom_tagged.mol2 and 1S9I_tagged.mol2 processing
+1uom 1S9I
+there is 492 bits on in 1uom
+there is 3294 bits on in 1S9I_A_aligned
+0.2933055
+1uom	1S9I	0.0325203
+1uom_tagged.mol2 and 1U59_tagged.mol2 processing
+1uom 1U59
+there is 492 bits on in 1uom
+there is 3628 bits on in 1U59_A_aligned
+0.32704175
+1uom	1U59	0.0101626
+1uom_tagged.mol2 and 1VZO_tagged.mol2 processing
+1uom 1VZO
+there is 492 bits on in 1uom
+there is 3687 bits on in 1VZO_A_aligned
+0.393662959
+1uom	1VZO	0.00813008
+1uom_tagged.mol2 and 1WAK_tagged.mol2 processing
+1uom 1WAK
+there is 492 bits on in 1uom
+there is 3626 bits on in 1WAK_A_aligned
+0.401634416
+1uom	1WAK	0.0142276
+1uom_tagged.mol2 and 1WBW_tagged.mol2 processing
+1uom 1WBW
+there is 492 bits on in 1uom
+there is 3568 bits on in 1WBW_A_aligned
+0.365416459
+1uom	1WBW	0.0264228
+1uom_tagged.mol2 and 1XO2_tagged.mol2 processing
+1uom 1XO2
+there is 492 bits on in 1uom
+there is 3694 bits on in 1XO2_B_aligned
+0.31685875
+1uom	1XO2	0.0142276
+1uom_tagged.mol2 and 1YI6_tagged.mol2 processing
+1uom 1YI6
+there is 492 bits on in 1uom
+there is 3607 bits on in 1YI6_B_aligned
+0.323925792
+1uom	1YI6	0.0203252
+1uom_tagged.mol2 and 1a52_tagged.mol2 processing
+1uom 1a52
+there is 492 bits on in 1uom
+there is 278 bits on in 1a52
+0.083503459
+1uom	1a52	0.496403
+1uom_tagged.mol2 and 1err_tagged.mol2 processing
+1uom 1err
+there is 492 bits on in 1uom
+there is 530 bits on in 1err
+0.087811208
+1uom	1err	0.563008
+1uom_tagged.mol2 and 1g50_tagged.mol2 processing
+1uom 1g50
+there is 492 bits on in 1uom
+there is 305 bits on in 1g50
+0.085699708
+1uom	1g50	0.308197
+1uom_tagged.mol2 and 1nde_tagged.mol2 processing
+1uom 1nde
+there is 492 bits on in 1uom
+there is 578 bits on in 1nde
+0.087723958
+1uom	1nde	0.398374
+1uom_tagged.mol2 and 1qkn_tagged.mol2 processing
+1uom 1qkn
+there is 492 bits on in 1uom
+there is 594 bits on in 1qkn
+0.085893667
+1uom	1qkn	0.550813
+1uom_tagged.mol2 and 1sj0_tagged.mol2 processing
+1uom 1sj0
+there is 492 bits on in 1uom
+there is 530 bits on in 1sj0
+0.088700042
+1uom	1sj0	0.640244
+1uom_tagged.mol2 and 1x7r_tagged.mol2 processing
+1uom 1x7r
+there is 492 bits on in 1uom
+there is 331 bits on in 1x7r
+0.083381
+1uom	1x7r	0.36858
+1uom_tagged.mol2 and 1xp1_tagged.mol2 processing
+1uom 1xp1
+there is 492 bits on in 1uom
+there is 663 bits on in 1xp1
+0.089565375
+1uom	1xp1	0.585366
+1uom_tagged.mol2 and 1xp6_tagged.mol2 processing
+1uom 1xp6
+there is 492 bits on in 1uom
+there is 740 bits on in 1xp6
+0.09199075
+1uom	1xp6	0.563008
+1uom_tagged.mol2 and 1xp9_tagged.mol2 processing
+1uom 1xp9
+there is 492 bits on in 1uom
+there is 657 bits on in 1xp9
+0.094185291
+1uom	1xp9	0.640244
+1uom_tagged.mol2 and 1xpc_tagged.mol2 processing
+1uom 1xpc
+there is 492 bits on in 1uom
+there is 679 bits on in 1xpc
+0.106574334
+1uom	1xpc	0.644309
+1uom_tagged.mol2 and 1xqc_tagged.mol2 processing
+1uom 1xqc
+there is 492 bits on in 1uom
+there is 557 bits on in 1xqc
+0.094975958
+1uom	1xqc	0.589431
+1uom_tagged.mol2 and 1yy4_tagged.mol2 processing
+1uom 1yy4
+there is 492 bits on in 1uom
+there is 312 bits on in 1yy4
+0.096620166
+1uom	1yy4	0.352564
+1x7r_tagged.mol2 and 1CM8_tagged.mol2 processing
+1x7r 1CM8
+there is 331 bits on in 1x7r
+there is 3650 bits on in 1CM8_B_aligned
+0.363788042
+1x7r	1CM8	0.0060423
+1x7r_tagged.mol2 and 1K2P_tagged.mol2 processing
+1x7r 1K2P
+there is 331 bits on in 1x7r
+there is 3725 bits on in 1K2P_A_aligned
+0.338446958
+1x7r	1K2P	0.00906344
+1x7r_tagged.mol2 and 1PKG_tagged.mol2 processing
+1x7r 1PKG
+there is 331 bits on in 1x7r
+there is 3634 bits on in 1PKG_A_aligned
+0.37932875
+1x7r	1PKG	0.0060423
+1x7r_tagged.mol2 and 1S9I_tagged.mol2 processing
+1x7r 1S9I
+there is 331 bits on in 1x7r
+there is 3294 bits on in 1S9I_A_aligned
+0.298864792
+1x7r	1S9I	0.0332326
+1x7r_tagged.mol2 and 1U59_tagged.mol2 processing
+1x7r 1U59
+there is 331 bits on in 1x7r
+there is 3628 bits on in 1U59_A_aligned
+0.305802791
+1x7r	1U59	0.0181269
+1x7r_tagged.mol2 and 1VZO_tagged.mol2 processing
+1x7r 1VZO
+there is 331 bits on in 1x7r
+there is 3687 bits on in 1VZO_A_aligned
+0.392705208
+1x7r	1VZO	0.00302115
+1x7r_tagged.mol2 and 1WAK_tagged.mol2 processing
+1x7r 1WAK
+there is 331 bits on in 1x7r
+there is 3626 bits on in 1WAK_A_aligned
+0.38994775
+1x7r	1WAK	0.0060423
+1x7r_tagged.mol2 and 1WBW_tagged.mol2 processing
+1x7r 1WBW
+there is 331 bits on in 1x7r
+there is 3568 bits on in 1WBW_A_aligned
+0.351772666
+1x7r	1WBW	0.0151057
+1x7r_tagged.mol2 and 1XO2_tagged.mol2 processing
+1x7r 1XO2
+there is 331 bits on in 1x7r
+there is 3694 bits on in 1XO2_B_aligned
+0.320774292
+1x7r	1XO2	0
+1x7r_tagged.mol2 and 1YI6_tagged.mol2 processing
+1x7r 1YI6
+there is 331 bits on in 1x7r
+there is 3607 bits on in 1YI6_B_aligned
+0.3419565
+1x7r	1YI6	0.021148
+1x7r_tagged.mol2 and 1a52_tagged.mol2 processing
+1x7r 1a52
+there is 331 bits on in 1x7r
+there is 278 bits on in 1a52
+0.084862875
+1x7r	1a52	0.618705
+1x7r_tagged.mol2 and 1err_tagged.mol2 processing
+1x7r 1err
+there is 331 bits on in 1x7r
+there is 530 bits on in 1err
+0.082060417
+1x7r	1err	0.404834
+1x7r_tagged.mol2 and 1g50_tagged.mol2 processing
+1x7r 1g50
+there is 331 bits on in 1x7r
+there is 305 bits on in 1g50
+0.082763042
+1x7r	1g50	0.383607
+1x7r_tagged.mol2 and 1nde_tagged.mol2 processing
+1x7r 1nde
+there is 331 bits on in 1x7r
+there is 578 bits on in 1nde
+0.087975375
+1x7r	1nde	0.413897
+1x7r_tagged.mol2 and 1qkn_tagged.mol2 processing
+1x7r 1qkn
+there is 331 bits on in 1x7r
+there is 594 bits on in 1qkn
+0.086153291
+1x7r	1qkn	0.41994
+1x7r_tagged.mol2 and 1sj0_tagged.mol2 processing
+1x7r 1sj0
+there is 331 bits on in 1x7r
+there is 530 bits on in 1sj0
+0.08653375
+1x7r	1sj0	0.332326
+1x7r_tagged.mol2 and 1uom_tagged.mol2 processing
+1x7r 1uom
+there is 331 bits on in 1x7r
+there is 492 bits on in 1uom
+0.08532225
+1x7r	1uom	0.36858
+1x7r_tagged.mol2 and 1xp1_tagged.mol2 processing
+1x7r 1xp1
+there is 331 bits on in 1x7r
+there is 663 bits on in 1xp1
+0.087101583
+1x7r	1xp1	0.299094
+1x7r_tagged.mol2 and 1xp6_tagged.mol2 processing
+1x7r 1xp6
+there is 331 bits on in 1x7r
+there is 740 bits on in 1xp6
+0.08351925
+1x7r	1xp6	0.287009
+1x7r_tagged.mol2 and 1xp9_tagged.mol2 processing
+1x7r 1xp9
+there is 331 bits on in 1x7r
+there is 657 bits on in 1xp9
+0.086193041
+1x7r	1xp9	0.34139
+1x7r_tagged.mol2 and 1xpc_tagged.mol2 processing
+1x7r 1xpc
+there is 331 bits on in 1x7r
+there is 679 bits on in 1xpc
+0.088854875
+1x7r	1xpc	0.326284
+1x7r_tagged.mol2 and 1xqc_tagged.mol2 processing
+1x7r 1xqc
+there is 331 bits on in 1x7r
+there is 557 bits on in 1xqc
+0.08544925
+1x7r	1xqc	0.362538
+1x7r_tagged.mol2 and 1yy4_tagged.mol2 processing
+1x7r 1yy4
+there is 331 bits on in 1x7r
+there is 312 bits on in 1yy4
+0.080095125
+1x7r	1yy4	0.387821
+1xp1_tagged.mol2 and 1CM8_tagged.mol2 processing
+1xp1 1CM8
+there is 663 bits on in 1xp1
+there is 3650 bits on in 1CM8_B_aligned
+0.348346709
+1xp1	1CM8	0.015083
+1xp1_tagged.mol2 and 1K2P_tagged.mol2 processing
+1xp1 1K2P
+there is 663 bits on in 1xp1
+there is 3725 bits on in 1K2P_A_aligned
+0.34799175
+1xp1	1K2P	0.0120664
+1xp1_tagged.mol2 and 1PKG_tagged.mol2 processing
+1xp1 1PKG
+there is 663 bits on in 1xp1
+there is 3634 bits on in 1PKG_A_aligned
+0.405959209
+1xp1	1PKG	0.00754148
+1xp1_tagged.mol2 and 1S9I_tagged.mol2 processing
+1xp1 1S9I
+there is 663 bits on in 1xp1
+there is 3294 bits on in 1S9I_A_aligned
+0.303610459
+1xp1	1S9I	0.0346908
+1xp1_tagged.mol2 and 1U59_tagged.mol2 processing
+1xp1 1U59
+there is 663 bits on in 1xp1
+there is 3628 bits on in 1U59_A_aligned
+0.294110125
+1xp1	1U59	0.0105581
+1xp1_tagged.mol2 and 1VZO_tagged.mol2 processing
+1xp1 1VZO
+there is 663 bits on in 1xp1
+there is 3687 bits on in 1VZO_A_aligned
+0.411457167
+1xp1	1VZO	0.0120664
+1xp1_tagged.mol2 and 1WAK_tagged.mol2 processing
+1xp1 1WAK
+there is 663 bits on in 1xp1
+there is 3626 bits on in 1WAK_A_aligned
+0.410674416
+1xp1	1WAK	0.0180995
+1xp1_tagged.mol2 and 1WBW_tagged.mol2 processing
+1xp1 1WBW
+there is 663 bits on in 1xp1
+there is 3568 bits on in 1WBW_A_aligned
+0.376701708
+1xp1	1WBW	0.0271493
+1xp1_tagged.mol2 and 1XO2_tagged.mol2 processing
+1xp1 1XO2
+there is 663 bits on in 1xp1
+there is 3694 bits on in 1XO2_B_aligned
+0.325001
+1xp1	1XO2	0.0120664
+1xp1_tagged.mol2 and 1YI6_tagged.mol2 processing
+1xp1 1YI6
+there is 663 bits on in 1xp1
+there is 3607 bits on in 1YI6_B_aligned
+0.32813275
+1xp1	1YI6	0.0226244
+1xp1_tagged.mol2 and 1a52_tagged.mol2 processing
+1xp1 1a52
+there is 663 bits on in 1xp1
+there is 278 bits on in 1a52
+0.086952709
+1xp1	1a52	0.395683
+1xp1_tagged.mol2 and 1err_tagged.mol2 processing
+1xp1 1err
+there is 663 bits on in 1xp1
+there is 530 bits on in 1err
+0.088656042
+1xp1	1err	0.45283
+1xp1_tagged.mol2 and 1g50_tagged.mol2 processing
+1xp1 1g50
+there is 663 bits on in 1xp1
+there is 305 bits on in 1g50
+0.089921084
+1xp1	1g50	0.262295
+1xp1_tagged.mol2 and 1nde_tagged.mol2 processing
+1xp1 1nde
+there is 663 bits on in 1xp1
+there is 578 bits on in 1nde
+0.088894
+1xp1	1nde	0.32699
+1xp1_tagged.mol2 and 1qkn_tagged.mol2 processing
+1xp1 1qkn
+there is 663 bits on in 1xp1
+there is 594 bits on in 1qkn
+0.0908225
+1xp1	1qkn	0.464646
+1xp1_tagged.mol2 and 1sj0_tagged.mol2 processing
+1xp1 1sj0
+there is 663 bits on in 1xp1
+there is 530 bits on in 1sj0
+0.0902325
+1xp1	1sj0	0.711321
+1xp1_tagged.mol2 and 1uom_tagged.mol2 processing
+1xp1 1uom
+there is 663 bits on in 1xp1
+there is 492 bits on in 1uom
+0.088604291
+1xp1	1uom	0.585366
+1xp1_tagged.mol2 and 1x7r_tagged.mol2 processing
+1xp1 1x7r
+there is 663 bits on in 1xp1
+there is 331 bits on in 1x7r
+0.0921565
+1xp1	1x7r	0.299094
+1xp1_tagged.mol2 and 1xp6_tagged.mol2 processing
+1xp1 1xp6
+there is 663 bits on in 1xp1
+there is 740 bits on in 1xp6
+0.09610325
+1xp1	1xp6	0.683258
+1xp1_tagged.mol2 and 1xp9_tagged.mol2 processing
+1xp1 1xp9
+there is 663 bits on in 1xp1
+there is 657 bits on in 1xp9
+0.090361917
+1xp1	1xp9	0.751903
+1xp1_tagged.mol2 and 1xpc_tagged.mol2 processing
+1xp1 1xpc
+there is 663 bits on in 1xp1
+there is 679 bits on in 1xpc
+0.0930075
+1xp1	1xpc	0.707391
+1xp1_tagged.mol2 and 1xqc_tagged.mol2 processing
+1xp1 1xqc
+there is 663 bits on in 1xp1
+there is 557 bits on in 1xqc
+0.09351625
+1xp1	1xqc	0.481149
+1xp1_tagged.mol2 and 1yy4_tagged.mol2 processing
+1xp1 1yy4
+there is 663 bits on in 1xp1
+there is 312 bits on in 1yy4
+0.089099042
+1xp1	1yy4	0.278846
+1xp6_tagged.mol2 and 1CM8_tagged.mol2 processing
+1xp6 1CM8
+there is 740 bits on in 1xp6
+there is 3650 bits on in 1CM8_B_aligned
+0.3412415
+1xp6	1CM8	0.0175676
+1xp6_tagged.mol2 and 1K2P_tagged.mol2 processing
+1xp6 1K2P
+there is 740 bits on in 1xp6
+there is 3725 bits on in 1K2P_A_aligned
+0.341453667
+1xp6	1K2P	0.0189189
+1xp6_tagged.mol2 and 1PKG_tagged.mol2 processing
+1xp6 1PKG
+there is 740 bits on in 1xp6
+there is 3634 bits on in 1PKG_A_aligned
+0.399160542
+1xp6	1PKG	0.0135135
+1xp6_tagged.mol2 and 1S9I_tagged.mol2 processing
+1xp6 1S9I
+there is 740 bits on in 1xp6
+there is 3294 bits on in 1S9I_A_aligned
+0.313927084
+1xp6	1S9I	0.0418919
+1xp6_tagged.mol2 and 1U59_tagged.mol2 processing
+1xp6 1U59
+there is 740 bits on in 1xp6
+there is 3628 bits on in 1U59_A_aligned
+0.313927791
+1xp6	1U59	0.0243243
+1xp6_tagged.mol2 and 1VZO_tagged.mol2 processing
+1xp6 1VZO
+there is 740 bits on in 1xp6
+there is 3687 bits on in 1VZO_A_aligned
+0.412463834
+1xp6	1VZO	0.0162162
+1xp6_tagged.mol2 and 1WAK_tagged.mol2 processing
+1xp6 1WAK
+there is 740 bits on in 1xp6
+there is 3626 bits on in 1WAK_A_aligned
+0.416167458
+1xp6	1WAK	0.0216216
+1xp6_tagged.mol2 and 1WBW_tagged.mol2 processing
+1xp6 1WBW
+there is 740 bits on in 1xp6
+there is 3568 bits on in 1WBW_A_aligned
+0.38085675
+1xp6	1WBW	0.0297297
+1xp6_tagged.mol2 and 1XO2_tagged.mol2 processing
+1xp6 1XO2
+there is 740 bits on in 1xp6
+there is 3694 bits on in 1XO2_B_aligned
+0.369843333
+1xp6	1XO2	0.0162162
+1xp6_tagged.mol2 and 1YI6_tagged.mol2 processing
+1xp6 1YI6
+there is 740 bits on in 1xp6
+there is 3607 bits on in 1YI6_B_aligned
+0.333544834
+1xp6	1YI6	0.0256757
+1xp6_tagged.mol2 and 1a52_tagged.mol2 processing
+1xp6 1a52
+there is 740 bits on in 1xp6
+there is 278 bits on in 1a52
+0.0884565
+1xp6	1a52	0.363309
+1xp6_tagged.mol2 and 1err_tagged.mol2 processing
+1xp6 1err
+there is 740 bits on in 1xp6
+there is 530 bits on in 1err
+0.0905725
+1xp6	1err	0.441509
+1xp6_tagged.mol2 and 1g50_tagged.mol2 processing
+1xp6 1g50
+there is 740 bits on in 1xp6
+there is 305 bits on in 1g50
+0.08255375
+1xp6	1g50	0.24918
+1xp6_tagged.mol2 and 1nde_tagged.mol2 processing
+1xp6 1nde
+there is 740 bits on in 1xp6
+there is 578 bits on in 1nde
+0.093580375
+1xp6	1nde	0.323529
+1xp6_tagged.mol2 and 1qkn_tagged.mol2 processing
+1xp6 1qkn
+there is 740 bits on in 1xp6
+there is 594 bits on in 1qkn
+0.095269042
+1xp6	1qkn	0.452862
+1xp6_tagged.mol2 and 1sj0_tagged.mol2 processing
+1xp6 1sj0
+there is 740 bits on in 1xp6
+there is 530 bits on in 1sj0
+0.094206125
+1xp6	1sj0	0.690566
+1xp6_tagged.mol2 and 1uom_tagged.mol2 processing
+1xp6 1uom
+there is 740 bits on in 1xp6
+there is 492 bits on in 1uom
+0.089325625
+1xp6	1uom	0.563008
+1xp6_tagged.mol2 and 1x7r_tagged.mol2 processing
+1xp6 1x7r
+there is 740 bits on in 1xp6
+there is 331 bits on in 1x7r
+0.091165791
+1xp6	1x7r	0.287009
+1xp6_tagged.mol2 and 1xp1_tagged.mol2 processing
+1xp6 1xp1
+there is 740 bits on in 1xp6
+there is 663 bits on in 1xp1
+0.094476209
+1xp6	1xp1	0.683258
+1xp6_tagged.mol2 and 1xp9_tagged.mol2 processing
+1xp6 1xp9
+there is 740 bits on in 1xp6
+there is 657 bits on in 1xp9
+0.093682833
+1xp6	1xp9	0.596651
+1xp6_tagged.mol2 and 1xpc_tagged.mol2 processing
+1xp6 1xpc
+there is 740 bits on in 1xp6
+there is 679 bits on in 1xpc
+0.092051833
+1xp6	1xpc	0.683358
+1xp6_tagged.mol2 and 1xqc_tagged.mol2 processing
+1xp6 1xqc
+there is 740 bits on in 1xp6
+there is 557 bits on in 1xqc
+0.093317625
+1xp6	1xqc	0.445242
+1xp6_tagged.mol2 and 1yy4_tagged.mol2 processing
+1xp6 1yy4
+there is 740 bits on in 1xp6
+there is 312 bits on in 1yy4
+0.085903791
+1xp6	1yy4	0.253205
+1xp9_tagged.mol2 and 1CM8_tagged.mol2 processing
+1xp9 1CM8
+there is 657 bits on in 1xp9
+there is 3650 bits on in 1CM8_B_aligned
+0.342934833
+1xp9	1CM8	0.0136986
+1xp9_tagged.mol2 and 1K2P_tagged.mol2 processing
+1xp9 1K2P
+there is 657 bits on in 1xp9
+there is 3725 bits on in 1K2P_A_aligned
+0.340032084
+1xp9	1K2P	0.0121766
+1xp9_tagged.mol2 and 1PKG_tagged.mol2 processing
+1xp9 1PKG
+there is 657 bits on in 1xp9
+there is 3634 bits on in 1PKG_A_aligned
+0.408824041
+1xp9	1PKG	0.00608828
+1xp9_tagged.mol2 and 1S9I_tagged.mol2 processing
+1xp9 1S9I
+there is 657 bits on in 1xp9
+there is 3294 bits on in 1S9I_A_aligned
+0.315871584
+1xp9	1S9I	0.0334855
+1xp9_tagged.mol2 and 1U59_tagged.mol2 processing
+1xp9 1U59
+there is 657 bits on in 1xp9
+there is 3628 bits on in 1U59_A_aligned
+0.303581667
+1xp9	1U59	0.0106545
+1xp9_tagged.mol2 and 1VZO_tagged.mol2 processing
+1xp9 1VZO
+there is 657 bits on in 1xp9
+there is 3687 bits on in 1VZO_A_aligned
+0.415716333
+1xp9	1VZO	0.0152207
+1xp9_tagged.mol2 and 1WAK_tagged.mol2 processing
+1xp9 1WAK
+there is 657 bits on in 1xp9
+there is 3626 bits on in 1WAK_A_aligned
+0.417602083
+1xp9	1WAK	0.0182648
+1xp9_tagged.mol2 and 1WBW_tagged.mol2 processing
+1xp9 1WBW
+there is 657 bits on in 1xp9
+there is 3568 bits on in 1WBW_A_aligned
+0.371390458
+1xp9	1WBW	0.0273973
+1xp9_tagged.mol2 and 1XO2_tagged.mol2 processing
+1xp9 1XO2
+there is 657 bits on in 1xp9
+there is 3694 bits on in 1XO2_B_aligned
+0.329436041
+1xp9	1XO2	0.0106545
+1xp9_tagged.mol2 and 1YI6_tagged.mol2 processing
+1xp9 1YI6
+there is 657 bits on in 1xp9
+there is 3607 bits on in 1YI6_B_aligned
+0.328655167
+1xp9	1YI6	0.0243531
+1xp9_tagged.mol2 and 1a52_tagged.mol2 processing
+1xp9 1a52
+there is 657 bits on in 1xp9
+there is 278 bits on in 1a52
+0.092632
+1xp9	1a52	0.395683
+1xp9_tagged.mol2 and 1err_tagged.mol2 processing
+1xp9 1err
+there is 657 bits on in 1xp9
+there is 530 bits on in 1err
+0.089164625
+1xp9	1err	0.479245
+1xp9_tagged.mol2 and 1g50_tagged.mol2 processing
+1xp9 1g50
+there is 657 bits on in 1xp9
+there is 305 bits on in 1g50
+0.087817
+1xp9	1g50	0.259016
+1xp9_tagged.mol2 and 1nde_tagged.mol2 processing
+1xp9 1nde
+there is 657 bits on in 1xp9
+there is 578 bits on in 1nde
+0.090857833
+1xp9	1nde	0.323529
+1xp9_tagged.mol2 and 1qkn_tagged.mol2 processing
+1xp9 1qkn
+there is 657 bits on in 1xp9
+there is 594 bits on in 1qkn
+0.090425458
+1xp9	1qkn	0.483165
+1xp9_tagged.mol2 and 1sj0_tagged.mol2 processing
+1xp9 1sj0
+there is 657 bits on in 1xp9
+there is 530 bits on in 1sj0
+0.089618333
+1xp9	1sj0	0.667925
+1xp9_tagged.mol2 and 1uom_tagged.mol2 processing
+1xp9 1uom
+there is 657 bits on in 1xp9
+there is 492 bits on in 1uom
+0.090237542
+1xp9	1uom	0.640244
+1xp9_tagged.mol2 and 1x7r_tagged.mol2 processing
+1xp9 1x7r
+there is 657 bits on in 1xp9
+there is 331 bits on in 1x7r
+0.087495125
+1xp9	1x7r	0.34139
+1xp9_tagged.mol2 and 1xp1_tagged.mol2 processing
+1xp9 1xp1
+there is 657 bits on in 1xp9
+there is 663 bits on in 1xp1
+0.089287125
+1xp9	1xp1	0.751903
+1xp9_tagged.mol2 and 1xp6_tagged.mol2 processing
+1xp9 1xp6
+there is 657 bits on in 1xp9
+there is 740 bits on in 1xp6
+0.094061334
+1xp9	1xp6	0.596651
+1xp9_tagged.mol2 and 1xpc_tagged.mol2 processing
+1xp9 1xpc
+there is 657 bits on in 1xp9
+there is 679 bits on in 1xpc
+0.091910958
+1xp9	1xpc	0.645358
+1xp9_tagged.mol2 and 1xqc_tagged.mol2 processing
+1xp9 1xqc
+there is 657 bits on in 1xp9
+there is 557 bits on in 1xqc
+0.089788208
+1xp9	1xqc	0.491921
+1xp9_tagged.mol2 and 1yy4_tagged.mol2 processing
+1xp9 1yy4
+there is 657 bits on in 1xp9
+there is 312 bits on in 1yy4
+0.089190375
+1xp9	1yy4	0.285256
+1xpc_tagged.mol2 and 1CM8_tagged.mol2 processing
+1xpc 1CM8
+there is 679 bits on in 1xpc
+there is 3650 bits on in 1CM8_B_aligned
+0.341972584
+1xpc	1CM8	0.017673
+1xpc_tagged.mol2 and 1K2P_tagged.mol2 processing
+1xpc 1K2P
+there is 679 bits on in 1xpc
+there is 3725 bits on in 1K2P_A_aligned
+0.342808083
+1xpc	1K2P	0.0147275
+1xpc_tagged.mol2 and 1PKG_tagged.mol2 processing
+1xpc 1PKG
+there is 679 bits on in 1xpc
+there is 3634 bits on in 1PKG_A_aligned
+0.401123959
+1xpc	1PKG	0.0103093
+1xpc_tagged.mol2 and 1S9I_tagged.mol2 processing
+1xpc 1S9I
+there is 679 bits on in 1xpc
+there is 3294 bits on in 1S9I_A_aligned
+0.301607458
+1xpc	1S9I	0.0382916
+1xpc_tagged.mol2 and 1U59_tagged.mol2 processing
+1xpc 1U59
+there is 679 bits on in 1xpc
+there is 3628 bits on in 1U59_A_aligned
+0.308970541
+1xpc	1U59	0.017673
+1xpc_tagged.mol2 and 1VZO_tagged.mol2 processing
+1xpc 1VZO
+there is 679 bits on in 1xpc
+there is 3687 bits on in 1VZO_A_aligned
+0.39942525
+1xpc	1VZO	0.0162003
+1xpc_tagged.mol2 and 1WAK_tagged.mol2 processing
+1xpc 1WAK
+there is 679 bits on in 1xpc
+there is 3626 bits on in 1WAK_A_aligned
+0.408686875
+1xpc	1WAK	0.0191458
+1xpc_tagged.mol2 and 1WBW_tagged.mol2 processing
+1xpc 1WBW
+there is 679 bits on in 1xpc
+there is 3568 bits on in 1WBW_A_aligned
+0.37318975
+1xpc	1WBW	0.0265096
+1xpc_tagged.mol2 and 1XO2_tagged.mol2 processing
+1xpc 1XO2
+there is 679 bits on in 1xpc
+there is 3694 bits on in 1XO2_B_aligned
+0.321671458
+1xpc	1XO2	0.0147275
+1xpc_tagged.mol2 and 1YI6_tagged.mol2 processing
+1xpc 1YI6
+there is 679 bits on in 1xpc
+there is 3607 bits on in 1YI6_B_aligned
+0.330734
+1xpc	1YI6	0.0235641
+1xpc_tagged.mol2 and 1a52_tagged.mol2 processing
+1xpc 1a52
+there is 679 bits on in 1xpc
+there is 278 bits on in 1a52
+0.086090375
+1xpc	1a52	0.384892
+1xpc_tagged.mol2 and 1err_tagged.mol2 processing
+1xpc 1err
+there is 679 bits on in 1xpc
+there is 530 bits on in 1err
+0.088314375
+1xpc	1err	0.475472
+1xpc_tagged.mol2 and 1g50_tagged.mol2 processing
+1xpc 1g50
+there is 679 bits on in 1xpc
+there is 305 bits on in 1g50
+0.087407792
+1xpc	1g50	0.219672
+1xpc_tagged.mol2 and 1nde_tagged.mol2 processing
+1xpc 1nde
+there is 679 bits on in 1xpc
+there is 578 bits on in 1nde
+0.089348625
+1xpc	1nde	0.354671
+1xpc_tagged.mol2 and 1qkn_tagged.mol2 processing
+1xpc 1qkn
+there is 679 bits on in 1xpc
+there is 594 bits on in 1qkn
+0.086446
+1xpc	1qkn	0.494949
+1xpc_tagged.mol2 and 1sj0_tagged.mol2 processing
+1xpc 1sj0
+there is 679 bits on in 1xpc
+there is 530 bits on in 1sj0
+0.09323925
+1xpc	1sj0	0.669811
+1xpc_tagged.mol2 and 1uom_tagged.mol2 processing
+1xpc 1uom
+there is 679 bits on in 1xpc
+there is 492 bits on in 1uom
+0.08871625
+1xpc	1uom	0.644309
+1xpc_tagged.mol2 and 1x7r_tagged.mol2 processing
+1xpc 1x7r
+there is 679 bits on in 1xpc
+there is 331 bits on in 1x7r
+0.089291
+1xpc	1x7r	0.326284
+1xpc_tagged.mol2 and 1xp1_tagged.mol2 processing
+1xpc 1xp1
+there is 679 bits on in 1xpc
+there is 663 bits on in 1xp1
+0.094148083
+1xpc	1xp1	0.707391
+1xpc_tagged.mol2 and 1xp6_tagged.mol2 processing
+1xpc 1xp6
+there is 679 bits on in 1xpc
+there is 740 bits on in 1xp6
+0.0912205
+1xpc	1xp6	0.683358
+1xpc_tagged.mol2 and 1xp9_tagged.mol2 processing
+1xpc 1xp9
+there is 679 bits on in 1xpc
+there is 657 bits on in 1xp9
+0.093683709
+1xpc	1xp9	0.645358
+1xpc_tagged.mol2 and 1xqc_tagged.mol2 processing
+1xpc 1xqc
+there is 679 bits on in 1xpc
+there is 557 bits on in 1xqc
+0.090976417
+1xpc	1xqc	0.482944
+1xpc_tagged.mol2 and 1yy4_tagged.mol2 processing
+1xpc 1yy4
+there is 679 bits on in 1xpc
+there is 312 bits on in 1yy4
+0.081674625
+1xpc	1yy4	0.246795
+1xqc_tagged.mol2 and 1CM8_tagged.mol2 processing
+1xqc 1CM8
+there is 557 bits on in 1xqc
+there is 3650 bits on in 1CM8_B_aligned
+0.355512125
+1xqc	1CM8	0.016158
+1xqc_tagged.mol2 and 1K2P_tagged.mol2 processing
+1xqc 1K2P
+there is 557 bits on in 1xqc
+there is 3725 bits on in 1K2P_A_aligned
+0.330570041
+1xqc	1K2P	0.0125673
+1xqc_tagged.mol2 and 1PKG_tagged.mol2 processing
+1xqc 1PKG
+there is 557 bits on in 1xqc
+there is 3634 bits on in 1PKG_A_aligned
+0.394600792
+1xqc	1PKG	0.00718133
+1xqc_tagged.mol2 and 1S9I_tagged.mol2 processing
+1xqc 1S9I
+there is 557 bits on in 1xqc
+there is 3294 bits on in 1S9I_A_aligned
+0.298824958
+1xqc	1S9I	0.037702
+1xqc_tagged.mol2 and 1U59_tagged.mol2 processing
+1xqc 1U59
+there is 557 bits on in 1xqc
+there is 3628 bits on in 1U59_A_aligned
+0.305506542
+1xqc	1U59	0.0143627
+1xqc_tagged.mol2 and 1VZO_tagged.mol2 processing
+1xqc 1VZO
+there is 557 bits on in 1xqc
+there is 3687 bits on in 1VZO_A_aligned
+0.399554083
+1xqc	1VZO	0.00897666
+1xqc_tagged.mol2 and 1WAK_tagged.mol2 processing
+1xqc 1WAK
+there is 557 bits on in 1xqc
+there is 3626 bits on in 1WAK_A_aligned
+0.417716042
+1xqc	1WAK	0.0179533
+1xqc_tagged.mol2 and 1WBW_tagged.mol2 processing
+1xqc 1WBW
+there is 557 bits on in 1xqc
+there is 3568 bits on in 1WBW_A_aligned
+0.366339875
+1xqc	1WBW	0.0233393
+1xqc_tagged.mol2 and 1XO2_tagged.mol2 processing
+1xqc 1XO2
+there is 557 bits on in 1xqc
+there is 3694 bits on in 1XO2_B_aligned
+0.330427083
+1xqc	1XO2	0.016158
+1xqc_tagged.mol2 and 1YI6_tagged.mol2 processing
+1xqc 1YI6
+there is 557 bits on in 1xqc
+there is 3607 bits on in 1YI6_B_aligned
+0.329665333
+1xqc	1YI6	0.0233393
+1xqc_tagged.mol2 and 1a52_tagged.mol2 processing
+1xqc 1a52
+there is 557 bits on in 1xqc
+there is 278 bits on in 1a52
+0.086214541
+1xqc	1a52	0.406475
+1xqc_tagged.mol2 and 1err_tagged.mol2 processing
+1xqc 1err
+there is 557 bits on in 1xqc
+there is 530 bits on in 1err
+0.089300833
+1xqc	1err	0.550943
+1xqc_tagged.mol2 and 1g50_tagged.mol2 processing
+1xqc 1g50
+there is 557 bits on in 1xqc
+there is 305 bits on in 1g50
+0.087203083
+1xqc	1g50	0.288525
+1xqc_tagged.mol2 and 1nde_tagged.mol2 processing
+1xqc 1nde
+there is 557 bits on in 1xqc
+there is 578 bits on in 1nde
+0.090670417
+1xqc	1nde	0.378815
+1xqc_tagged.mol2 and 1qkn_tagged.mol2 processing
+1xqc 1qkn
+there is 557 bits on in 1xqc
+there is 594 bits on in 1qkn
+0.087154375
+1xqc	1qkn	0.527828
+1xqc_tagged.mol2 and 1sj0_tagged.mol2 processing
+1xqc 1sj0
+there is 557 bits on in 1xqc
+there is 530 bits on in 1sj0
+0.091208792
+1xqc	1sj0	0.543396
+1xqc_tagged.mol2 and 1uom_tagged.mol2 processing
+1xqc 1uom
+there is 557 bits on in 1xqc
+there is 492 bits on in 1uom
+0.084533334
+1xqc	1uom	0.589431
+1xqc_tagged.mol2 and 1x7r_tagged.mol2 processing
+1xqc 1x7r
+there is 557 bits on in 1xqc
+there is 331 bits on in 1x7r
+0.088796125
+1xqc	1x7r	0.362538
+1xqc_tagged.mol2 and 1xp1_tagged.mol2 processing
+1xqc 1xp1
+there is 557 bits on in 1xqc
+there is 663 bits on in 1xp1
+0.095330041
+1xqc	1xp1	0.481149
+1xqc_tagged.mol2 and 1xp6_tagged.mol2 processing
+1xqc 1xp6
+there is 557 bits on in 1xqc
+there is 740 bits on in 1xp6
+0.090827
+1xqc	1xp6	0.445242
+1xqc_tagged.mol2 and 1xp9_tagged.mol2 processing
+1xqc 1xp9
+there is 557 bits on in 1xqc
+there is 657 bits on in 1xp9
+0.090797042
+1xqc	1xp9	0.491921
+1xqc_tagged.mol2 and 1xpc_tagged.mol2 processing
+1xqc 1xpc
+there is 557 bits on in 1xqc
+there is 679 bits on in 1xpc
+0.088461292
+1xqc	1xpc	0.482944
+1xqc_tagged.mol2 and 1yy4_tagged.mol2 processing
+1xqc 1yy4
+there is 557 bits on in 1xqc
+there is 312 bits on in 1yy4
+0.087707417
+1xqc	1yy4	0.307692
+1yy4_tagged.mol2 and 1CM8_tagged.mol2 processing
+1yy4 1CM8
+there is 312 bits on in 1yy4
+there is 3650 bits on in 1CM8_B_aligned
+0.336035375
+1yy4	1CM8	0.00961538
+1yy4_tagged.mol2 and 1K2P_tagged.mol2 processing
+1yy4 1K2P
+there is 312 bits on in 1yy4
+there is 3725 bits on in 1K2P_A_aligned
+0.329973542
+1yy4	1K2P	0.00641026
+1yy4_tagged.mol2 and 1PKG_tagged.mol2 processing
+1yy4 1PKG
+there is 312 bits on in 1yy4
+there is 3634 bits on in 1PKG_A_aligned
+0.392821875
+1yy4	1PKG	0.00320513
+1yy4_tagged.mol2 and 1S9I_tagged.mol2 processing
+1yy4 1S9I
+there is 312 bits on in 1yy4
+there is 3294 bits on in 1S9I_A_aligned
+0.300121917
+1yy4	1S9I	0.0224359
+1yy4_tagged.mol2 and 1U59_tagged.mol2 processing
+1yy4 1U59
+there is 312 bits on in 1yy4
+there is 3628 bits on in 1U59_A_aligned
+0.310587959
+1yy4	1U59	0.00641026
+1yy4_tagged.mol2 and 1VZO_tagged.mol2 processing
+1yy4 1VZO
+there is 312 bits on in 1yy4
+there is 3687 bits on in 1VZO_A_aligned
+0.398210459
+1yy4	1VZO	0.00320513
+1yy4_tagged.mol2 and 1WAK_tagged.mol2 processing
+1yy4 1WAK
+there is 312 bits on in 1yy4
+there is 3626 bits on in 1WAK_A_aligned
+0.4083775
+1yy4	1WAK	0.0128205
+1yy4_tagged.mol2 and 1WBW_tagged.mol2 processing
+1yy4 1WBW
+there is 312 bits on in 1yy4
+there is 3568 bits on in 1WBW_A_aligned
+0.351186542
+1yy4	1WBW	0.0128205
+1yy4_tagged.mol2 and 1XO2_tagged.mol2 processing
+1yy4 1XO2
+there is 312 bits on in 1yy4
+there is 3694 bits on in 1XO2_B_aligned
+0.312920125
+1yy4	1XO2	0
+1yy4_tagged.mol2 and 1YI6_tagged.mol2 processing
+1yy4 1YI6
+there is 312 bits on in 1yy4
+there is 3607 bits on in 1YI6_B_aligned
+0.322142375
+1yy4	1YI6	0.0192308
+1yy4_tagged.mol2 and 1a52_tagged.mol2 processing
+1yy4 1a52
+there is 312 bits on in 1yy4
+there is 278 bits on in 1a52
+0.081753708
+1yy4	1a52	0.503597
+1yy4_tagged.mol2 and 1err_tagged.mol2 processing
+1yy4 1err
+there is 312 bits on in 1yy4
+there is 530 bits on in 1err
+0.089714833
+1yy4	1err	0.349359
+1yy4_tagged.mol2 and 1g50_tagged.mol2 processing
+1yy4 1g50
+there is 312 bits on in 1yy4
+there is 305 bits on in 1g50
+0.082966708
+1yy4	1g50	0.52459
+1yy4_tagged.mol2 and 1nde_tagged.mol2 processing
+1yy4 1nde
+there is 312 bits on in 1yy4
+there is 578 bits on in 1nde
+0.088486292
+1yy4	1nde	0.259615
+1yy4_tagged.mol2 and 1qkn_tagged.mol2 processing
+1yy4 1qkn
+there is 312 bits on in 1yy4
+there is 594 bits on in 1qkn
+0.080837584
+1yy4	1qkn	0.320513
+1yy4_tagged.mol2 and 1sj0_tagged.mol2 processing
+1yy4 1sj0
+there is 312 bits on in 1yy4
+there is 530 bits on in 1sj0
+0.0877025
+1yy4	1sj0	0.307692
+1yy4_tagged.mol2 and 1uom_tagged.mol2 processing
+1yy4 1uom
+there is 312 bits on in 1yy4
+there is 492 bits on in 1uom
+0.088412583
+1yy4	1uom	0.352564
+1yy4_tagged.mol2 and 1x7r_tagged.mol2 processing
+1yy4 1x7r
+there is 312 bits on in 1yy4
+there is 331 bits on in 1x7r
+0.080961375
+1yy4	1x7r	0.387821
+1yy4_tagged.mol2 and 1xp1_tagged.mol2 processing
+1yy4 1xp1
+there is 312 bits on in 1yy4
+there is 663 bits on in 1xp1
+0.08833375
+1yy4	1xp1	0.278846
+1yy4_tagged.mol2 and 1xp6_tagged.mol2 processing
+1yy4 1xp6
+there is 312 bits on in 1yy4
+there is 740 bits on in 1xp6
+0.088912417
+1yy4	1xp6	0.253205
+1yy4_tagged.mol2 and 1xp9_tagged.mol2 processing
+1yy4 1xp9
+there is 312 bits on in 1yy4
+there is 657 bits on in 1xp9
+0.088114417
+1yy4	1xp9	0.285256
+1yy4_tagged.mol2 and 1xpc_tagged.mol2 processing
+1yy4 1xpc
+there is 312 bits on in 1yy4
+there is 679 bits on in 1xpc
+0.083638292
+1yy4	1xpc	0.246795
+1yy4_tagged.mol2 and 1xqc_tagged.mol2 processing
+1yy4 1xqc
+there is 312 bits on in 1yy4
+there is 557 bits on in 1xqc
+0.087792333
+1yy4	1xqc	0.307692

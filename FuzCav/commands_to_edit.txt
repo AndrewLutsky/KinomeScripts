@@ -1,0 +1,1 @@
+cat fuzcav_dist_3A.txt | grep -vE "there is|processing|^1\.|^0\."
