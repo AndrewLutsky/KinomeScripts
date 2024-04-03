@@ -1,0 +1,9 @@
+REMARK Selection '(protein and re...) and (protein)'
+ATOM      1  N   VAL A 121      -3.110  14.096  -1.472  1.00 30.69           N  
+ATOM      2  CA  VAL A 121      -4.533  13.885  -1.382  1.00 29.79           C  
+ATOM      3  C   VAL A 121      -5.032  14.432  -0.065  1.00 29.59           C  
+ATOM      4  O   VAL A 121      -4.249  14.635   0.872  1.00 29.36           O  
+ATOM      5  CB  VAL A 121      -4.891  12.413  -1.567  1.00 29.40           C  
+ATOM      6  CG1 VAL A 121      -4.416  11.947  -2.921  1.00 27.70           C  
+ATOM      7  CG2 VAL A 121      -4.247  11.584  -0.488  1.00 29.05           C  
+END   
