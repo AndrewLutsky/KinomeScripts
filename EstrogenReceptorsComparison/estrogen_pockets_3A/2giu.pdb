@@ -1,0 +1,11 @@
+REMARK Selection 'same residue as...of resname FBR)'
+ATOM      1  N   GLU A 305      25.741   6.208 104.101  1.00 36.05           N  
+ATOM      2  CA  GLU A 305      27.056   5.910 104.656  1.00 35.41           C  
+ATOM      3  C   GLU A 305      27.327   4.415 104.746  1.00 33.87           C  
+ATOM      4  O   GLU A 305      28.490   4.001 104.656  1.00 39.34           O  
+ATOM      5  CB  GLU A 305      27.209   6.537 106.045  1.00 39.10           C  
+ATOM      6  CG  GLU A 305      27.044   8.044 106.098  1.00 34.15           C  
+ATOM      7  CD  GLU A 305      27.438   8.613 107.449  1.00 36.61           C  
+ATOM      8  OE1 GLU A 305      26.584   8.666 108.360  1.00 34.05           O  
+ATOM      9  OE2 GLU A 305      28.611   9.018 107.597  1.00 34.98           O  
+END   

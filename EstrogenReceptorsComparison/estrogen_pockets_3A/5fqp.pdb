@@ -1,0 +1,20 @@
+REMARK Selection 'same residue as...of resname GQD)'
+ATOM      1  N   GLU A 353      22.571  26.093  70.433  1.00 18.25           N  
+ANISOU    1  N   GLU A 353     1795   3071   2066    285      4    -26       N  
+ATOM      2  CA  GLU A 353      21.879  27.387  70.455  1.00 17.79           C  
+ANISOU    2  CA  GLU A 353     1734   2969   2056    185      2    -34       C  
+ATOM      3  C   GLU A 353      21.171  27.654  71.786  1.00 17.79           C  
+ANISOU    3  C   GLU A 353     1768   2937   2054    184    -20    -42       C  
+ATOM      4  O   GLU A 353      21.085  28.802  72.234  1.00 17.54           O  
+ANISOU    4  O   GLU A 353     1709   2908   2046    119    -35    -66       O  
+ATOM      5  CB  GLU A 353      20.851  27.467  69.324  1.00 17.39           C  
+ANISOU    5  CB  GLU A 353     1739   2829   2038    143     32     -8       C  
+ATOM      6  CG  GLU A 353      21.440  27.697  67.943  1.00 17.54           C  
+ANISOU    6  CG  GLU A 353     1723   2874   2066    119     57     -1       C  
+ATOM      7  CD  GLU A 353      20.358  27.886  66.895  1.00 17.32           C  
+ANISOU    7  CD  GLU A 353     1754   2764   2063     84     77     20       C  
+ATOM      8  OE1 GLU A 353      19.668  26.896  66.558  1.00 16.87           O  
+ANISOU    8  OE1 GLU A 353     1757   2658   1996    128     82     32       O  
+ATOM      9  OE2 GLU A 353      20.191  29.029  66.417  1.00 17.63           O  
+ANISOU    9  OE2 GLU A 353     1782   2787   2130     15     88     20       O  
+END   

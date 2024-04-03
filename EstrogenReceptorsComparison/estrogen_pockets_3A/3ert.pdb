@@ -1,0 +1,11 @@
+REMARK Selection 'same residue as...of resname OHT)'
+ATOM      1  N   GLU A 353      23.907  -6.371  21.286  1.00 24.42           N  
+ATOM      2  CA  GLU A 353      23.055  -5.177  21.259  1.00 26.41           C  
+ATOM      3  C   GLU A 353      23.135  -4.456  19.919  1.00 23.96           C  
+ATOM      4  O   GLU A 353      22.171  -3.828  19.468  1.00 28.39           O  
+ATOM      5  CB  GLU A 353      23.474  -4.202  22.359  1.00 25.00           C  
+ATOM      6  CG  GLU A 353      23.150  -4.660  23.767  1.00 28.26           C  
+ATOM      7  CD  GLU A 353      23.420  -3.576  24.792  1.00 31.14           C  
+ATOM      8  OE1 GLU A 353      22.500  -2.776  25.072  1.00 30.57           O  
+ATOM      9  OE2 GLU A 353      24.553  -3.524  25.312  1.00 29.90           O  
+END   
