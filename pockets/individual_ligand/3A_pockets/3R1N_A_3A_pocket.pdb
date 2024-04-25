@@ -1,0 +1,11 @@
+REMARK Selection '(protein and re...) and (protein)'
+ATOM      1  N   LYS A  73       8.140  13.754  -1.443  1.00 42.44           N  
+ATOM      2  CA  LYS A  73       8.896  12.635  -0.874  1.00 43.29           C  
+ATOM      3  C   LYS A  73      10.394  12.759  -1.208  1.00 43.34           C  
+ATOM      4  O   LYS A  73      10.771  12.752  -2.384  1.00 42.55           O  
+ATOM      5  CB  LYS A  73       8.331  11.305  -1.383  1.00 42.08           C  
+ATOM      6  CG  LYS A  73       8.852  10.145  -0.569  1.00 43.95           C  
+ATOM      7  CD  LYS A  73       8.234   8.767  -1.011  1.00 39.73           C  
+ATOM      8  CE  LYS A  73       8.809   7.710  -0.057  1.00 42.02           C  
+ATOM      9  NZ  LYS A  73       8.312   6.287  -0.221  1.00 37.42           N1+
+END   

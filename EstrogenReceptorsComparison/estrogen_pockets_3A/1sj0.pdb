@@ -1,0 +1,12 @@
+REMARK Selection 'same residue as...of resname E4D)'
+ATOM      1  N   HIS A 524      39.822   4.295  25.849  1.00 37.23           N  
+ATOM      2  CA  HIS A 524      40.050   3.171  26.763  1.00 40.21           C  
+ATOM      3  C   HIS A 524      39.898   1.862  26.001  1.00 37.41           C  
+ATOM      4  O   HIS A 524      40.736   0.961  26.142  1.00 34.93           O  
+ATOM      5  CB  HIS A 524      39.128   3.305  27.970  1.00 41.28           C  
+ATOM      6  CG  HIS A 524      39.180   2.276  29.049  1.00 39.62           C  
+ATOM      7  ND1 HIS A 524      38.237   1.274  29.160  1.00 40.44           N  
+ATOM      8  CD2 HIS A 524      40.030   2.076  30.084  1.00 39.59           C  
+ATOM      9  CE1 HIS A 524      38.500   0.502  30.195  1.00 42.69           C  
+ATOM     10  NE2 HIS A 524      39.590   0.971  30.772  1.00 43.63           N  
+END   

@@ -1,0 +1,8 @@
+REMARK Selection '(protein and re...) and (protein)'
+ATOM      1  N   CYS B 126      -3.387  14.109  -1.542  1.00 89.07           N  
+ATOM      2  CA  CYS B 126      -4.643  13.513  -1.147  1.00 88.69           C  
+ATOM      3  C   CYS B 126      -5.143  14.186   0.105  1.00 92.50           C  
+ATOM      4  O   CYS B 126      -4.433  14.982   0.733  1.00 96.51           O  
+ATOM      5  CB  CYS B 126      -4.462  12.028  -0.908  1.00 84.34           C  
+ATOM      6  SG  CYS B 126      -3.786  11.210  -2.368  1.00 81.41           S  
+END   

@@ -1,0 +1,10 @@
+REMARK Selection '(protein and re...) and (protein)'
+ATOM      1  N   ASP B  91       1.703  14.163  -5.899  1.00 17.59           N  
+ATOM      2  CA  ASP B  91       0.412  14.861  -5.663  1.00 15.33           C  
+ATOM      3  C   ASP B  91       0.022  14.652  -4.221  1.00 16.77           C  
+ATOM      4  O   ASP B  91       0.168  13.540  -3.713  1.00 18.55           O  
+ATOM      5  CB  ASP B  91      -0.699  14.294  -6.556  1.00 14.16           C  
+ATOM      6  CG  ASP B  91      -0.579  14.746  -8.061  1.00 18.89           C  
+ATOM      7  OD1 ASP B  91       0.180  15.697  -8.388  1.00 17.14           O  
+ATOM      8  OD2 ASP B  91      -1.316  14.165  -8.937  1.00 27.76           O1-
+END   

@@ -1,0 +1,10 @@
+REMARK Selection '(protein and re...) and (protein)'
+ATOM      1  N   ASP C1150       2.017   5.937  -1.950  1.00 44.01           N  
+ATOM      2  CA  ASP C1150       3.423   6.154  -1.746  1.00 41.94           C  
+ATOM      3  C   ASP C1150       4.287   5.044  -1.154  1.00 41.05           C  
+ATOM      4  O   ASP C1150       4.361   4.863   0.066  1.00 39.77           O  
+ATOM      5  CB  ASP C1150       3.560   7.403  -0.903  1.00 40.55           C  
+ATOM      6  CG  ASP C1150       4.886   8.083  -1.099  1.00 42.43           C  
+ATOM      7  OD1 ASP C1150       5.788   7.470  -1.728  1.00 39.49           O  
+ATOM      8  OD2 ASP C1150       5.014   9.234  -0.614  1.00 40.67           O1-
+END   

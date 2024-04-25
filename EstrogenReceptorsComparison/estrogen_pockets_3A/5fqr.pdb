@@ -1,0 +1,20 @@
+REMARK Selection 'same residue as...of resname QHG)'
+ATOM      1  N   GLU A 353      22.635  26.228  70.189  1.00 21.95           N  
+ANISOU    1  N   GLU A 353     2388   3408   2544    234     51    -38       N  
+ATOM      2  CA  GLU A 353      21.976  27.538  70.243  1.00 21.96           C  
+ANISOU    2  CA  GLU A 353     2379   3375   2591    155     42    -50       C  
+ATOM      3  C   GLU A 353      21.284  27.800  71.574  1.00 22.28           C  
+ANISOU    3  C   GLU A 353     2441   3399   2626    164     22    -62       C  
+ATOM      4  O   GLU A 353      21.224  28.940  72.035  1.00 22.20           O  
+ANISOU    4  O   GLU A 353     2401   3392   2640    118      2    -90       O  
+ATOM      5  CB  GLU A 353      20.945  27.666  69.134  1.00 21.28           C  
+ANISOU    5  CB  GLU A 353     2338   3215   2533    112     63    -23       C  
+ATOM      6  CG  GLU A 353      21.533  27.772  67.740  1.00 21.49           C  
+ANISOU    6  CG  GLU A 353     2343   3257   2566     95     84    -11       C  
+ATOM      7  CD  GLU A 353      20.465  28.050  66.718  1.00 21.40           C  
+ANISOU    7  CD  GLU A 353     2374   3180   2574     61     97      5       C  
+ATOM      8  OE1 GLU A 353      19.819  27.078  66.267  1.00 21.20           O  
+ANISOU    8  OE1 GLU A 353     2399   3121   2537     92    103     15       O  
+ATOM      9  OE2 GLU A 353      20.243  29.245  66.406  1.00 21.82           O  
+ANISOU    9  OE2 GLU A 353     2414   3217   2659      5    101      8       O  
+END   

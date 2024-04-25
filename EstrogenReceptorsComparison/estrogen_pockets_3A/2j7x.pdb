@@ -1,0 +1,11 @@
+REMARK Selection 'same residue as...of resname EST)'
+ATOM      1  N   GLU A 260      48.438  34.908  86.526  1.00 41.69           N  
+ATOM      2  CA  GLU A 260      48.909  36.150  85.955  1.00 41.46           C  
+ATOM      3  C   GLU A 260      47.805  37.155  85.756  1.00 40.88           C  
+ATOM      4  O   GLU A 260      47.996  38.342  85.951  1.00 41.54           O  
+ATOM      5  CB  GLU A 260      49.618  35.900  84.637  1.00 41.87           C  
+ATOM      6  CG  GLU A 260      50.949  35.195  84.801  1.00 42.31           C  
+ATOM      7  CD  GLU A 260      51.670  35.105  83.478  1.00 43.33           C  
+ATOM      8  OE1 GLU A 260      51.444  34.124  82.773  1.00 44.93           O  
+ATOM      9  OE2 GLU A 260      52.426  36.027  83.134  1.00 44.68           O  
+END   

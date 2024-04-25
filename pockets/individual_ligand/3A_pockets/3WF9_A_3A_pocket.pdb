@@ -1,0 +1,14 @@
+REMARK Selection '(protein and re...) and (protein)'
+ATOM      1  N   TYR A 102      15.691   8.633   6.480  1.00 21.38           N  
+ATOM      2  CA  TYR A 102      16.255   8.919   5.163  1.00 34.48           C  
+ATOM      3  C   TYR A 102      15.906  10.311   4.641  1.00 24.02           C  
+ATOM      4  O   TYR A 102      16.448  10.747   3.618  1.00 20.38           O  
+ATOM      5  CB  TYR A 102      15.782   7.888   4.139  1.00 19.59           C  
+ATOM      6  CG  TYR A 102      16.143   6.463   4.450  1.00 24.01           C  
+ATOM      7  CD1 TYR A 102      17.369   5.935   4.054  1.00 21.78           C  
+ATOM      8  CD2 TYR A 102      15.245   5.632   5.108  1.00 24.10           C  
+ATOM      9  CE1 TYR A 102      17.694   4.617   4.330  1.00 24.92           C  
+ATOM     10  CE2 TYR A 102      15.560   4.320   5.387  1.00 22.29           C  
+ATOM     11  CZ  TYR A 102      16.781   3.818   4.987  1.00 23.25           C  
+ATOM     12  OH  TYR A 102      17.087   2.508   5.257  1.00 33.44           O  
+END   
