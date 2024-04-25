@@ -1,7 +1,0 @@
-REMARK Selection '(protein and re...) and (protein)'
-ATOM      1  N   ALA A 107      -3.069  13.847  -0.245  1.00 64.05           N  
-ATOM      2  CA  ALA A 107      -4.284  13.151   0.154  1.00 63.39           C  
-ATOM      3  C   ALA A 107      -4.936  13.852   1.342  1.00 64.29           C  
-ATOM      4  O   ALA A 107      -4.392  13.851   2.457  1.00 63.15           O  
-ATOM      5  CB  ALA A 107      -3.988  11.695   0.470  1.00 64.39           C  
-END   

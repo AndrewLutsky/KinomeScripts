@@ -1,6 +1,0 @@
-REMARK Selection '(protein and re...) and (protein)'
-ATOM      1  N   GLY B 210      -3.801  12.226  -0.735  1.00 19.19           N  
-ATOM      2  CA  GLY B 210      -5.233  12.007  -0.608  1.00 18.66           C  
-ATOM      3  C   GLY B 210      -5.842  12.978   0.373  1.00 20.85           C  
-ATOM      4  O   GLY B 210      -5.562  12.903   1.573  1.00 20.42           O  
-END   

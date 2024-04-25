@@ -1,8 +1,0 @@
-REMARK Selection '(protein and re...) and (protein)'
-ATOM      1  N   CYS A 162      -3.291  14.064  -1.076  1.00 18.95           N  
-ATOM      2  CA  CYS A 162      -4.483  13.293  -0.692  1.00 18.71           C  
-ATOM      3  C   CYS A 162      -5.094  13.829   0.597  1.00 18.83           C  
-ATOM      4  O   CYS A 162      -4.973  13.189   1.629  1.00 20.11           O  
-ATOM      5  CB  CYS A 162      -4.100  11.820  -0.502  1.00 18.30           C  
-ATOM      6  SG  CYS A 162      -3.706  10.927  -2.026  1.00 17.90           S  
-END   

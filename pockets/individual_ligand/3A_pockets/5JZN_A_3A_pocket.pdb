@@ -1,9 +1,0 @@
-REMARK Selection '(protein and re...) and (protein)'
-ATOM      1  N   VAL A 468      -3.453  13.992  -1.257  1.00 44.04           N  
-ATOM      2  CA  VAL A 468      -4.743  13.379  -0.967  1.00 43.61           C  
-ATOM      3  C   VAL A 468      -5.141  13.847   0.411  1.00 44.34           C  
-ATOM      4  O   VAL A 468      -4.617  13.370   1.420  1.00 39.07           O  
-ATOM      5  CB  VAL A 468      -4.696  11.838  -1.024  1.00 42.46           C  
-ATOM      6  CG1 VAL A 468      -6.089  11.265  -0.847  1.00 37.04           C  
-ATOM      7  CG2 VAL A 468      -4.090  11.366  -2.337  1.00 36.41           C  
-END   
